@@ -1,0 +1,2826 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.9.12)  21 JUL 2020 11:56
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**lec.tex
+(./lec.tex
+LaTeX2e <2018-04-01> patch level 2
+Babel <3.18> and hyphenation patterns for 84 language(s) loaded.
+(/usr/local/texlive/2018/texmf-dist/tex/latex/beamer/beamer.cls
+Document Class: beamer 2018/02/20 v3.50 A class for typesetting presentations
+(/usr/local/texlive/2018/texmf-dist/tex/latex/beamer/beamerbasemodes.sty
+(/usr/local/texlive/2018/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2018/02/11 v2.5e e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count80
+)
+\beamer@tempbox=\box26
+\beamer@tempcount=\count81
+\c@beamerpauses=\count82
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/beamer/beamerbasedecode.sty
+\beamer@slideinframe=\count83
+\beamer@minimum=\count84
+)
+\beamer@commentbox=\box27
+\beamer@modecount=\count85
+)
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+)
+\headdp=\dimen102
+\footheight=\dimen103
+\sidebarheight=\dimen104
+\beamer@tempdim=\dimen105
+\beamer@finalheight=\dimen106
+\beamer@animht=\dimen107
+\beamer@animdp=\dimen108
+\beamer@animwd=\dimen109
+\beamer@leftmargin=\dimen110
+\beamer@rightmargin=\dimen111
+\beamer@leftsidebar=\dimen112
+\beamer@rightsidebar=\dimen113
+\beamer@boxsize=\dimen114
+\beamer@vboxoffset=\dimen115
+\beamer@descdefault=\dimen116
+\beamer@descriptionwidth=\dimen117
+\beamer@lastskip=\skip41
+\beamer@areabox=\box28
+\beamer@animcurrent=\box29
+\beamer@animshowbox=\box30
+\beamer@sectionbox=\box31
+\beamer@logobox=\box32
+\beamer@linebox=\box33
+\beamer@sectioncount=\count86
+\beamer@subsubsectionmax=\count87
+\beamer@subsectionmax=\count88
+\beamer@sectionmax=\count89
+\beamer@totalheads=\count90
+\beamer@headcounter=\count91
+\beamer@partstartpage=\count92
+\beamer@sectionstartpage=\count93
+\beamer@subsectionstartpage=\count94
+\beamer@animationtempa=\count95
+\beamer@animationtempb=\count96
+\beamer@xpos=\count97
+\beamer@ypos=\count98
+\beamer@ypos@offset=\count99
+\beamer@showpartnumber=\count100
+\beamer@currentsubsection=\count101
+\beamer@coveringdepth=\count102
+\beamer@sectionadjust=\count103
+\beamer@tocsectionnumber=\count104
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/beamer/beamerbaseoptions.sty
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+))
+\beamer@paperwidth=\skip42
+\beamer@paperheight=\skip43
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2018/03/24 v5.7 Page Geometry
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(/usr/local/texlive/2018/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count105
+\Gm@cntv=\count106
+\c@Gm@tempcnt=\count107
+\Gm@bindingoffset=\dimen118
+\Gm@wd@mp=\dimen119
+\Gm@odd@mp=\dimen120
+\Gm@even@mp=\dimen121
+\Gm@layoutwidth=\dimen122
+\Gm@layoutheight=\dimen123
+\Gm@layouthoffset=\dimen124
+\Gm@layoutvoffset=\dimen125
+\Gm@dimlist=\toks15
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/base/size11.clo
+File: size11.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen126
+\Gin@req@width=\dimen127
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
+(/usr/local/texlive/2018/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
+(/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.te
+x
+\pgfutil@everybye=\toks16
+\pgfutil@tempdima=\dimen128
+\pgfutil@tempdimb=\dimen129
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-li
+sts.tex))
+(/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
+\pgfutil@abb=\box34
+(/usr/local/texlive/2018/texmf-dist/tex/latex/ms/everyshi.sty
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+))
+(/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
+Package: pgfrcs 2015/08/07 v3.0.1a (rcs-revision 1.31)
+))
+(/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+Package: pgfsys 2014/07/09 v3.0.1a (rcs-revision 1.48)
+(/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks17
+\pgfkeys@temptoks=\toks18
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.c
+ode.tex
+\pgfkeys@tmptoks=\toks19
+))
+\pgf@x=\dimen130
+\pgf@y=\dimen131
+\pgf@xa=\dimen132
+\pgf@ya=\dimen133
+\pgf@xb=\dimen134
+\pgf@yb=\dimen135
+\pgf@xc=\dimen136
+\pgf@yc=\dimen137
+\w@pgf@writea=\write3
+\r@pgf@reada=\read1
+\c@pgf@counta=\count108
+\c@pgf@countb=\count109
+\c@pgf@countc=\count110
+\c@pgf@countd=\count111
+\t@pgf@toka=\toks20
+\t@pgf@tokb=\toks21
+\t@pgf@tokc=\toks22
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
+File: pgf.cfg 2008/05/14  (rcs-revision 1.7)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-pdftex.d
+ef
+File: pgfsys-pdftex.def 2014/10/11  (rcs-revision 1.35)
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-p
+df.def
+File: pgfsys-common-pdf.def 2013/10/10  (rcs-revision 1.13)
+)))
+(/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.
+code.tex
+File: pgfsyssoftpath.code.tex 2013/09/09  (rcs-revision 1.9)
+\pgfsyssoftpath@smallbuffer@items=\count112
+\pgfsyssoftpath@bigbuffer@items=\count113
+)
+(/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.
+code.tex
+File: pgfsysprotocol.code.tex 2006/10/16  (rcs-revision 1.4)
+)) (/usr/local/texlive/2018/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+(/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+Package: pgfcore 2010/04/11 v3.0.1a (rcs-revision 1.7)
+(/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
+(/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex
+(/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
+(/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
+\pgfmath@dimen=\dimen138
+\pgfmath@count=\count114
+\pgfmath@box=\box35
+\pgfmath@toks=\toks23
+\pgfmath@stack@operand=\toks24
+\pgfmath@stack@operation=\toks25
+)
+(/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.
+tex
+(/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic
+.code.tex)
+(/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigo
+nometric.code.tex)
+(/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.rando
+m.code.tex)
+(/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.compa
+rison.code.tex)
+(/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.
+code.tex)
+(/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round
+.code.tex)
+(/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.
+code.tex)
+(/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integ
+erarithmetics.code.tex)))
+(/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count115
+))
+(/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.co
+de.tex
+File: pgfcorepoints.code.tex 2013/10/07  (rcs-revision 1.27)
+\pgf@picminx=\dimen139
+\pgf@picmaxx=\dimen140
+\pgf@picminy=\dimen141
+\pgf@picmaxy=\dimen142
+\pgf@pathminx=\dimen143
+\pgf@pathmaxx=\dimen144
+\pgf@pathminy=\dimen145
+\pgf@pathmaxy=\dimen146
+\pgf@xx=\dimen147
+\pgf@xy=\dimen148
+\pgf@yx=\dimen149
+\pgf@yy=\dimen150
+\pgf@zx=\dimen151
+\pgf@zy=\dimen152
+)
+(/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconst
+ruct.code.tex
+File: pgfcorepathconstruct.code.tex 2013/10/07  (rcs-revision 1.29)
+\pgf@path@lastx=\dimen153
+\pgf@path@lasty=\dimen154
+)
+(/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage
+.code.tex
+File: pgfcorepathusage.code.tex 2014/11/02  (rcs-revision 1.24)
+\pgf@shorten@end@additional=\dimen155
+\pgf@shorten@start@additional=\dimen156
+)
+(/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.co
+de.tex
+File: pgfcorescopes.code.tex 2015/05/08  (rcs-revision 1.46)
+\pgfpic=\box36
+\pgf@hbox=\box37
+\pgf@layerbox@main=\box38
+\pgf@picture@serial@count=\count116
+)
+(/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicst
+ate.code.tex
+File: pgfcoregraphicstate.code.tex 2014/11/02  (rcs-revision 1.12)
+\pgflinewidth=\dimen157
+)
+(/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransform
+ations.code.tex
+File: pgfcoretransformations.code.tex 2015/08/07  (rcs-revision 1.20)
+\pgf@pt@x=\dimen158
+\pgf@pt@y=\dimen159
+\pgf@pt@temp=\dimen160
+)
+(/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.cod
+e.tex
+File: pgfcorequick.code.tex 2008/10/09  (rcs-revision 1.3)
+)
+(/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.c
+ode.tex
+File: pgfcoreobjects.code.tex 2006/10/11  (rcs-revision 1.2)
+)
+(/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathproce
+ssing.code.tex
+File: pgfcorepathprocessing.code.tex 2013/09/09  (rcs-revision 1.9)
+)
+(/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.co
+de.tex
+File: pgfcorearrows.code.tex 2015/05/14  (rcs-revision 1.43)
+\pgfarrowsep=\dimen161
+)
+(/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.cod
+e.tex
+File: pgfcoreshade.code.tex 2013/07/15  (rcs-revision 1.15)
+\pgf@max=\dimen162
+\pgf@sys@shading@range@num=\count117
+)
+(/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.cod
+e.tex
+File: pgfcoreimage.code.tex 2013/07/15  (rcs-revision 1.18)
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.
+code.tex
+File: pgfcoreexternal.code.tex 2014/07/09  (rcs-revision 1.21)
+\pgfexternal@startupbox=\box39
+))
+(/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.co
+de.tex
+File: pgfcorelayers.code.tex 2013/07/18  (rcs-revision 1.7)
+)
+(/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretranspare
+ncy.code.tex
+File: pgfcoretransparency.code.tex 2013/09/30  (rcs-revision 1.5)
+)
+(/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.
+code.tex
+File: pgfcorepatterns.code.tex 2013/11/07  (rcs-revision 1.5)
+)))
+(/usr/local/texlive/2018/texmf-dist/tex/latex/pgf/utilities/xxcolor.sty
+Package: xxcolor 2003/10/24 ver 0.1
+\XC@nummixins=\count118
+\XC@countmixins=\count119
+)
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/atbegshi.sty
+Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+))
+(/usr/local/texlive/2018/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2018/02/06 v6.86b Hypertext links for LaTeX
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
+
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
+Package hobsub Info: Skipping package `infwarerr' (already loaded).
+Package hobsub Info: Skipping package `ltxcmds' (already loaded).
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+Package hobsub Info: Skipping package `ifvtex' (already loaded).
+Package: intcalc 2016/05/16 v1.2 Expandable calculations with integers (HO)
+Package hobsub Info: Skipping package `ifpdf' (already loaded).
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+Package: pdftexcmds 2018/01/30 v0.27 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+Package: pdfescape 2016/05/16 v1.14 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2016/05/16 v1.4 Expandable calculations on big integers (HO
+)
+Package: bitset 2016/05/16 v1.2 Handle bit-vector datatype (HO)
+Package: uniquecounter 2016/05/16 v1.3 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2016/05/16 v1.5 Let assignment for LaTeX macros (HO)
+Package: hopatch 2016/05/16 v1.3 Wrapper for package hooks (HO)
+Package: xcolor-patch 2016/05/16 xcolor patch
+Package: atveryend 2016/05/16 v1.9 Hooks at the very end of document (HO)
+Package hobsub Info: Skipping package `atbegshi' (already loaded).
+Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
+Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/auxhook.sty
+Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+)
+\@linkdim=\dimen163
+\Hy@linkcounter=\count120
+\Hy@pagecounter=\count121
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2018/02/06 v6.86b Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+\Hy@SavedSpaceFactor=\count122
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Option `bookmarks' set `true' on input line 4383.
+Package hyperref Info: Option `bookmarksopen' set `true' on input line 4383.
+Package hyperref Info: Option `implicit' set `false' on input line 4383.
+Package hyperref Info: Hyper figures OFF on input line 4509.
+Package hyperref Info: Link nesting OFF on input line 4514.
+Package hyperref Info: Hyper index ON on input line 4517.
+Package hyperref Info: Plain pages OFF on input line 4524.
+Package hyperref Info: Backreferencing OFF on input line 4529.
+Package hyperref Info: Implicit mode OFF; no redefinition of LaTeX internals.
+Package hyperref Info: Bookmarks ON on input line 4762.
+\c@Hy@tempcnt=\count123
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5115.
+\XeTeXLinkMargin=\dimen164
+\Fld@menulength=\count124
+\Field@Width=\dimen165
+\Fld@charsize=\dimen166
+Package hyperref Info: Hyper figures OFF on input line 6369.
+Package hyperref Info: Link nesting OFF on input line 6374.
+Package hyperref Info: Hyper index ON on input line 6377.
+Package hyperref Info: backreferencing OFF on input line 6384.
+Package hyperref Info: Link coloring OFF on input line 6389.
+Package hyperref Info: Link coloring with OCG OFF on input line 6394.
+Package hyperref Info: PDF/A mode OFF on input line 6399.
+LaTeX Info: Redefining \ref on input line 6439.
+LaTeX Info: Redefining \pageref on input line 6443.
+\Hy@abspage=\count125
+
+
+Package hyperref Message: Stopped early.
+
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+ (/usr/local/texlive/2018/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2018/02/06 v6.86b Hyperref driver for pdfTeX
+\Fld@listcount=\count126
+\c@bookmark@seq@number=\count127
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+))
+(/usr/local/texlive/2018/texmf-dist/tex/latex/beamer/beamerbaserequires.sty
+(/usr/local/texlive/2018/texmf-dist/tex/latex/beamer/beamerbasecompatibility.st
+y) (/usr/local/texlive/2018/texmf-dist/tex/latex/beamer/beamerbasefont.sty
+(/usr/local/texlive/2018/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks26
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(/usr/local/texlive/2018/texmf-dist/tex/latex/sansmathaccent/sansmathaccent.sty
+Package: sansmathaccent 2013/03/28
+(/usr/local/texlive/2018/texmf-dist/tex/latex/filehook/filehook.sty
+Package: filehook 2011/10/12 v0.5d Hooks for input files
+)))
+(/usr/local/texlive/2018/texmf-dist/tex/latex/beamer/beamerbasetranslator.sty
+(/usr/local/texlive/2018/texmf-dist/tex/latex/translator/translator.sty
+Package: translator 2018/01/04 v1.12 Easy translation of strings in LaTeX
+))
+(/usr/local/texlive/2018/texmf-dist/tex/latex/beamer/beamerbasemisc.sty)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/beamer/beamerbasetwoscreens.sty)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/beamer/beamerbaseoverlay.sty
+\beamer@argscount=\count128
+\beamer@lastskipcover=\skip44
+\beamer@trivlistdepth=\count129
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/beamer/beamerbasetitle.sty)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/beamer/beamerbasesection.sty
+\c@lecture=\count130
+\c@part=\count131
+\c@section=\count132
+\c@subsection=\count133
+\c@subsubsection=\count134
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/beamer/beamerbaseframe.sty
+\beamer@framebox=\box40
+\beamer@frametitlebox=\box41
+\beamer@zoombox=\box42
+\beamer@zoomcount=\count135
+\beamer@zoomframecount=\count136
+\beamer@frametextheight=\dimen167
+\c@subsectionslide=\count137
+\beamer@frametopskip=\skip45
+\beamer@framebottomskip=\skip46
+\beamer@frametopskipautobreak=\skip47
+\beamer@framebottomskipautobreak=\skip48
+\beamer@envbody=\toks27
+\framewidth=\dimen168
+\c@framenumber=\count138
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/beamer/beamerbaseverbatim.sty
+\beamer@verbatimfileout=\write4
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/beamer/beamerbaseframesize.sty
+\beamer@splitbox=\box43
+\beamer@autobreakcount=\count139
+\beamer@autobreaklastheight=\dimen169
+\beamer@frametitletoks=\toks28
+\beamer@framesubtitletoks=\toks29
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/beamer/beamerbaseframecomponents.
+sty
+\beamer@footins=\box44
+) (/usr/local/texlive/2018/texmf-dist/tex/latex/beamer/beamerbasecolor.sty
+\beamer@bg@ht=\dimen170
+\beamer@bg@wd=\dimen171
+\beamer@bg@dp=\dimen172
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/beamer/beamerbasenotes.sty
+\beamer@frameboxcopy=\box45
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/beamer/beamerbasetoc.sty)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/beamer/beamerbasetemplates.sty
+\beamer@sbttoks=\toks30
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/beamer/beamerbaseauxtemplates.sty
+(/usr/local/texlive/2018/texmf-dist/tex/latex/beamer/beamerbaseboxes.sty
+\bmb@box=\box46
+\bmb@colorbox=\box47
+\bmb@boxshadow=\box48
+\bmb@boxshadowball=\box49
+\bmb@boxshadowballlarge=\box50
+\bmb@temp=\dimen173
+\bmb@dima=\dimen174
+\bmb@dimb=\dimen175
+\bmb@prevheight=\dimen176
+)
+\beamer@blockheadheight=\dimen177
+))
+(/usr/local/texlive/2018/texmf-dist/tex/latex/beamer/beamerbaselocalstructure.s
+ty (/usr/local/texlive/2018/texmf-dist/tex/latex/tools/enumerate.sty
+Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
+\@enLab=\toks31
+)
+\c@figure=\count140
+\c@table=\count141
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/beamer/beamerbasenavigation.sty
+\beamer@section@min@dim=\dimen178
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/beamer/beamerbasetheorems.sty
+(/usr/local/texlive/2018/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2017/09/02 v2.17a AMS math features
+\@mathmargin=\skip51
+
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2018/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks32
+\ex@=\dimen179
+))
+(/usr/local/texlive/2018/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen180
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count142
+LaTeX Info: Redefining \frac on input line 213.
+\uproot@=\count143
+\leftroot@=\count144
+LaTeX Info: Redefining \overline on input line 375.
+\classnum@=\count145
+\DOTSCASE@=\count146
+LaTeX Info: Redefining \ldots on input line 472.
+LaTeX Info: Redefining \dots on input line 475.
+LaTeX Info: Redefining \cdots on input line 596.
+\Mathstrutbox@=\box51
+\strutbox@=\box52
+\big@size=\dimen181
+LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
+\macc@depth=\count147
+\c@MaxMatrixCols=\count148
+\dotsspace@=\muskip11
+\c@parentequation=\count149
+\dspbrk@lvl=\count150
+\tag@help=\toks33
+\row@=\count151
+\column@=\count152
+\maxfields@=\count153
+\andhelp@=\toks34
+\eqnshift@=\dimen182
+\alignsep@=\dimen183
+\tagshift@=\dimen184
+\tagwidth@=\dimen185
+\totwidth@=\dimen186
+\lineht@=\dimen187
+\@envbody=\toks35
+\multlinegap=\skip52
+\multlinetaggap=\skip53
+\mathdisplay@stack=\toks36
+LaTeX Info: Redefining \[ on input line 2817.
+LaTeX Info: Redefining \] on input line 2818.
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/amscls/amsthm.sty
+Package: amsthm 2017/10/31 v2.20.4
+\thm@style=\toks37
+\thm@bodyfont=\toks38
+\thm@headfont=\toks39
+\thm@notefont=\toks40
+\thm@headpunct=\toks41
+\thm@preskip=\skip54
+\thm@postskip=\skip55
+\thm@headsep=\skip56
+\dth@everypar=\toks42
+)
+\c@theorem=\count154
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/beamer/beamerbasethemes.sty))
+(/usr/local/texlive/2018/texmf-dist/tex/latex/beamer/beamerthemedefault.sty
+(/usr/local/texlive/2018/texmf-dist/tex/latex/beamer/beamerfontthemedefault.sty
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/beamer/beamercolorthemedefault.st
+y)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/beamer/beamerinnerthemedefault.st
+y
+\beamer@dima=\dimen188
+\beamer@dimb=\dimen189
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/beamer/beamerouterthemedefault.st
+y))) (/usr/local/texlive/2018/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2018/04/06 v1.3b Input encoding file
+\inpenc@prehook=\toks43
+\inpenc@posthook=\toks44
+)
+(./purev.sty
+(/usr/local/texlive/2018/texmf-dist/tex/latex/stackengine/stackengine.sty
+Package: stackengine 2017/02/13 v4.01\ Stacking text and objects in convenient 
+ways
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/listofitems/listofitems.sty
+(/usr/local/texlive/2018/texmf-dist/tex/generic/listofitems/listofitems.tex
+\loi_nestcnt=\count155
+)
+Package: listofitems 2018/03/13 v1.53 Grab items in lists using user-specified 
+sep char (CT)
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count156
+\calc@Bcount=\count157
+\calc@Adimen=\dimen190
+\calc@Bdimen=\dimen191
+\calc@Askip=\skip57
+\calc@Bskip=\skip58
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count158
+\calc@Cskip=\skip59
+)
+\c@@stackindex=\count159
+\@boxshift=\skip60
+\stack@tmplength=\skip61
+\temp@stkl=\skip62
+\@stackedboxwidth=\skip63
+\@addedbox=\box53
+\@anchorbox=\box54
+\stackedbox=\box55
+\@centerbox=\box56
+\c@ROWcellindex@=\count160
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count161
+\float@exts=\toks45
+\float@box=\box57
+\@float@everytoks=\toks46
+\@floatcapt=\box58
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/tipa/tipa.sty
+Package: tipa 2002/08/08 TIPA version 1.1
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2017/04/05 v2.0i Standard LaTeX package
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/tipa/t3enc.def
+File: t3enc.def 2001/12/31 T3 encoding
+Now handling font encoding T3 ...
+... no UTF-8 mapping file for font encoding T3
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/base/ot1enc.def
+File: ot1enc.def 2017/04/05 v2.0i Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding OT1 on input line 48.
+)))
+(/usr/local/texlive/2018/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
+(/usr/local/texlive/2018/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
+Package: pgf 2015/08/07 v3.0.1a (rcs-revision 1.15)
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.cod
+e.tex
+File: pgfmoduleshapes.code.tex 2014/03/21  (rcs-revision 1.35)
+\pgfnodeparttextbox=\box59
+)
+(/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.
+tex
+File: pgfmoduleplot.code.tex 2015/08/03  (rcs-revision 1.13)
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version
+-0-65.sty
+Package: pgfcomp-version-0-65 2007/07/03 v3.0.1a (rcs-revision 1.7)
+\pgf@nodesepstart=\dimen192
+\pgf@nodesepend=\dimen193
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version
+-1-18.sty
+Package: pgfcomp-version-1-18 2007/07/23 v3.0.1a (rcs-revision 1.1)
+))
+(/usr/local/texlive/2018/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
+(/usr/local/texlive/2018/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
+(/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex)
+) (/usr/local/texlive/2018/texmf-dist/tex/latex/pgf/math/pgfmath.sty
+(/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex))
+(/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+Package: pgffor 2013/12/13 v3.0.1a (rcs-revision 1.25)
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
+\pgffor@iter=\dimen194
+\pgffor@skip=\dimen195
+\pgffor@stack=\toks47
+\pgffor@toks=\toks48
+))
+(/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.cod
+e.tex
+Package: tikz 2015/08/07 v3.0.1a (rcs-revision 1.151)
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothan
+dlers.code.tex
+File: pgflibraryplothandlers.code.tex 2013/08/31 v3.0.1a (rcs-revision 1.20)
+\pgf@plot@mark@count=\count162
+\pgfplotmarksize=\dimen196
+)
+\tikz@lastx=\dimen197
+\tikz@lasty=\dimen198
+\tikz@lastxsaved=\dimen199
+\tikz@lastysaved=\dimen256
+\tikzleveldistance=\dimen257
+\tikzsiblingdistance=\dimen258
+\tikz@figbox=\box60
+\tikz@figbox@bg=\box61
+\tikz@tempbox=\box62
+\tikz@tempbox@bg=\box63
+\tikztreelevel=\count163
+\tikznumberofchildren=\count164
+\tikznumberofcurrentchild=\count165
+\tikz@fig@count=\count166
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.cod
+e.tex
+File: pgfmodulematrix.code.tex 2013/09/17  (rcs-revision 1.8)
+\pgfmatrixcurrentrow=\count167
+\pgfmatrixcurrentcolumn=\count168
+\pgf@matrix@numberofcolumns=\count169
+)
+\tikz@expandcount=\count170
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2008/06/17 v3.0.1a (rcs-revision 1.2)
+)))
+(/usr/local/texlive/2018/texmf-dist/tex/latex/tikzsymbols/tikzsymbols.sty
+(/usr/local/texlive/2018/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+(/usr/local/texlive/2018/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2018/03/05 L3 programming layer (loader) 
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/l3kernel/expl3-code.tex
+Package: expl3 2018/03/05 L3 programming layer (code)
+\c_max_int=\count171
+\l_tmpa_int=\count172
+\l_tmpb_int=\count173
+\g_tmpa_int=\count174
+\g_tmpb_int=\count175
+\g__intarray_font_int=\count176
+\g__prg_map_int=\count177
+\c_log_iow=\count178
+\l_iow_line_count_int=\count179
+\l__iow_line_target_int=\count180
+\l__iow_one_indent_int=\count181
+\l__iow_indent_int=\count182
+\c_zero_dim=\dimen259
+\c_max_dim=\dimen260
+\l_tmpa_dim=\dimen261
+\l_tmpb_dim=\dimen262
+\g_tmpa_dim=\dimen263
+\g_tmpb_dim=\dimen264
+\c_zero_skip=\skip64
+\c_max_skip=\skip65
+\l_tmpa_skip=\skip66
+\l_tmpb_skip=\skip67
+\g_tmpa_skip=\skip68
+\g_tmpb_skip=\skip69
+\c_zero_muskip=\muskip12
+\c_max_muskip=\muskip13
+\l_tmpa_muskip=\muskip14
+\l_tmpb_muskip=\muskip15
+\g_tmpa_muskip=\muskip16
+\g_tmpb_muskip=\muskip17
+\l_keys_choice_int=\count183
+\c__fp_leading_shift_int=\count184
+\c__fp_middle_shift_int=\count185
+\c__fp_trailing_shift_int=\count186
+\c__fp_big_leading_shift_int=\count187
+\c__fp_big_middle_shift_int=\count188
+\c__fp_big_trailing_shift_int=\count189
+\c__fp_Bigg_leading_shift_int=\count190
+\c__fp_Bigg_middle_shift_int=\count191
+\c__fp_Bigg_trailing_shift_int=\count192
+\c__fp_rand_size_int=\count193
+\c__fp_rand_four_int=\count194
+\c__fp_rand_eight_int=\count195
+\l__sort_length_int=\count196
+\l__sort_min_int=\count197
+\l__sort_top_int=\count198
+\l__sort_max_int=\count199
+\l__sort_true_max_int=\count266
+\l__sort_block_int=\count267
+\l__sort_begin_int=\count268
+\l__sort_end_int=\count269
+\l__sort_A_int=\count270
+\l__sort_B_int=\count271
+\l__sort_C_int=\count272
+\l__tl_build_start_index_int=\count273
+\l__tl_build_index_int=\count274
+\l__tl_analysis_normal_int=\count275
+\l__tl_analysis_index_int=\count276
+\l__tl_analysis_nesting_int=\count277
+\l__tl_analysis_type_int=\count278
+\l__regex_internal_a_int=\count279
+\l__regex_internal_b_int=\count280
+\l__regex_internal_c_int=\count281
+\l__regex_balance_int=\count282
+\l__regex_group_level_int=\count283
+\l__regex_mode_int=\count284
+\c__regex_cs_in_class_mode_int=\count285
+\c__regex_cs_mode_int=\count286
+\l__regex_catcodes_int=\count287
+\l__regex_default_catcodes_int=\count288
+\c__regex_catcode_D_int=\count289
+\c__regex_catcode_S_int=\count290
+\c__regex_catcode_L_int=\count291
+\c__regex_catcode_O_int=\count292
+\c__regex_catcode_A_int=\count293
+\c__regex_all_catcodes_int=\count294
+\l__regex_show_lines_int=\count295
+\l__regex_min_state_int=\count296
+\l__regex_max_state_int=\count297
+\l__regex_left_state_int=\count298
+\l__regex_right_state_int=\count299
+\l__regex_capturing_group_int=\count300
+\l__regex_min_pos_int=\count301
+\l__regex_max_pos_int=\count302
+\l__regex_curr_pos_int=\count303
+\l__regex_start_pos_int=\count304
+\l__regex_success_pos_int=\count305
+\l__regex_curr_char_int=\count306
+\l__regex_curr_catcode_int=\count307
+\l__regex_last_char_int=\count308
+\l__regex_case_changed_char_int=\count309
+\l__regex_curr_state_int=\count310
+\l__regex_step_int=\count311
+\l__regex_min_active_int=\count312
+\l__regex_max_active_int=\count313
+\l__regex_replacement_csnames_int=\count314
+\l__regex_match_count_int=\count315
+\l__regex_min_submatch_int=\count316
+\l__regex_submatch_int=\count317
+\l__regex_zeroth_submatch_int=\count318
+\g__regex_trace_regex_int=\count319
+\c_empty_box=\box64
+\l_tmpa_box=\box65
+\l_tmpb_box=\box66
+\g_tmpa_box=\box67
+\g_tmpb_box=\box68
+\l__box_top_dim=\dimen265
+\l__box_bottom_dim=\dimen266
+\l__box_left_dim=\dimen267
+\l__box_right_dim=\dimen268
+\l__box_top_new_dim=\dimen269
+\l__box_bottom_new_dim=\dimen270
+\l__box_left_new_dim=\dimen271
+\l__box_right_new_dim=\dimen272
+\l__box_internal_box=\box69
+\l__coffin_internal_box=\box70
+\l__coffin_internal_dim=\dimen273
+\l__coffin_offset_x_dim=\dimen274
+\l__coffin_offset_y_dim=\dimen275
+\l__coffin_x_dim=\dimen276
+\l__coffin_y_dim=\dimen277
+\l__coffin_x_prime_dim=\dimen278
+\l__coffin_y_prime_dim=\dimen279
+\c_empty_coffin=\box71
+\l__coffin_aligned_coffin=\box72
+\l__coffin_aligned_internal_coffin=\box73
+\l_tmpa_coffin=\box74
+\l_tmpb_coffin=\box75
+\l__coffin_display_coffin=\box76
+\l__coffin_display_coord_coffin=\box77
+\l__coffin_display_pole_coffin=\box78
+\l__coffin_display_offset_dim=\dimen280
+\l__coffin_display_x_dim=\dimen281
+\l__coffin_display_y_dim=\dimen282
+\l__coffin_bounding_shift_dim=\dimen283
+\l__coffin_left_corner_dim=\dimen284
+\l__coffin_right_corner_dim=\dimen285
+\l__coffin_bottom_corner_dim=\dimen286
+\l__coffin_top_corner_dim=\dimen287
+\l__coffin_scaled_total_height_dim=\dimen288
+\l__coffin_scaled_width_dim=\dimen289
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/l3kernel/l3pdfmode.def
+File: l3pdfmode.def 2017/03/18 v L3 Experimental driver: PDF mode
+\l__driver_color_stack_int=\count320
+))
+Package: xparse 2018/02/21 L3 Experimental document command parser
+\l__xparse_current_arg_int=\count321
+\g__xparse_grabber_int=\count322
+\l__xparse_m_args_int=\count323
+\l__xparse_mandatory_args_int=\count324
+\l__xparse_v_nesting_int=\count325
+)
+Package: tikzsymbols 2017/09/05 v4.07 Some symbols created using tikz and LaTeX
+3.
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/tools/xspace.sty
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
+Package: l3keys2e 2018/02/21 LaTeX2e option processing using LaTeX3 keys
+)
+(/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibraryarrows.code.tex
+File: tikzlibraryarrows.code.tex 2008/01/09 v3.0.1a (rcs-revision 1.1)
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/libraries/pgflibraryarrows.
+code.tex
+File: pgflibraryarrows.code.tex 2013/09/23 v3.0.1a (rcs-revision 1.16)
+\arrowsize=\dimen290
+))
+(/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibrarydecorations.pathmorphing.code.tex
+(/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibrarydecorations.code.tex
+(/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/modules/pgfmoduledecoration
+s.code.tex
+\pgfdecoratedcompleteddistance=\dimen291
+\pgfdecoratedremainingdistance=\dimen292
+\pgfdecoratedinputsegmentcompleteddistance=\dimen293
+\pgfdecoratedinputsegmentremainingdistance=\dimen294
+\pgf@decorate@distancetomove=\dimen295
+\pgf@decorate@repeatstate=\count326
+\pgfdecorationsegmentamplitude=\dimen296
+\pgfdecorationsegmentlength=\dimen297
+)
+\tikz@lib@dec@box=\box79
+)
+(/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/libraries/decorations/pgfli
+brarydecorations.pathmorphing.code.tex))
+(/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibrarytrees.code.tex
+File: tikzlibrarytrees.code.tex 2008/02/24 v3.0.1a (rcs-revision 1.2)
+)
+\l__tikzsymbols_Moai_thickness_dim=\dimen298
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \Kochtopf with sig. '>{\__tikzsymbols_scale_if_empty:nTn
+. {Kochtopf}{1}}O{1}' on line 557.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \Bratpfanne with sig. '>{\__tikzsymbols_scale_if_empty:nTn
+. {Bratpfanne}{1}}O{1}' on line 590.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \Schneebesen with sig. '>{\__tikzsymbols_scale_if_empty:nTn
+. {Schneebesen}{1}}O{1}' on line 619.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \Sieb with sig. '>{\__tikzsymbols_scale_if_empty:nTn
+. {Sieb}{1}}O{1}' on line 648.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \Purierstab with sig. '>{\__tikzsymbols_scale_if_empty:nTn
+. {Purierstab}{1}}O{1}' on line 673.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \Dreizack with sig. '>{\__tikzsymbols_scale_if_empty:nTn
+. {Dreizack}{1}}O{1}' on line 698.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \Backblech with sig. '>{\__tikzsymbols_scale_if_empty:nTn
+. {Backblech}{1}}O{1}' on line 725.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \Ofen with sig. '>{\__tikzsymbols_scale_if_empty:nTn
+. {Ofen}{1}}O{1}' on line 751.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \Pfanne with sig. '>{\__tikzsymbols_scale_if_empty:nTn
+. {Pfanne}{1}}O{1}' on line 785.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \Herd with sig. '>{\__tikzsymbols_scale_if_empty:nTn
+. {Herd}{1}}O{1}' on line 811.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \Saftpresse with sig. '>{\__tikzsymbols_scale_if_empty:nTn
+. {Saftpresse}{1}}O{1}' on line 846.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \Schussel with sig. '>{\__tikzsymbols_scale_if_empty:nTn
+. {Schussel}{1}}O{1}' on line 870.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \Schaler with sig. '>{\__tikzsymbols_scale_if_empty:nTn
+. {Schaler}{1}}O{1}' on line 895.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \Reibe with sig. '>{\__tikzsymbols_scale_if_empty:nTn
+. {Reibe}{1}}O{1}' on line 920.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \Flasche with sig. '>{\__tikzsymbols_scale_if_empty:nTn
+. {Flasche}{1}}O{1}' on line 944.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \Nudelholz with sig. '>{\__tikzsymbols_scale_if_empty:nTn
+. {Nudelholz}{1}}O{1}' on line 974.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \Sadey with sig. '>{\__tikzsymbols_scale_if_empty:nTn
+. {Sadey}{1}}O{1}>{\__tikzsymbols_if_empty:Tn {none}}O{none}' on line 996.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \dSadey with sig. '>{\__tikzsymbols_scale_if_empty:nTn
+. {dSadey}{1}}O{1}>{\__tikzsymbols_if_empty:Tn {yellow}}O{yellow}' on line
+. 1018.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \Changey with sig. '>{\__tikzsymbols_scale_if_empty:nTn
+. {Changey}{1}}O{1}>{\__tikzsymbols_if_empty:Tn {white}}O{white}m' on line
+. 1048.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \dChangey with sig. '>{\__tikzsymbols_scale_if_empty:nTn
+. {dChangey}{1}}O{1}>{\__tikzsymbols_if_empty:Tn {yellow}}O{yellow}m' on line
+. 1078.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \cChangey with sig. '>{\__tikzsymbols_scale_if_empty:nTn
+. {cChangey}{1}}O{1}>{\__tikzsymbols_if_empty:Tn
+. {red}}O{red}>{\__tikzsymbols_if_empty:Tn
+. {yellow}}O{yellow}>{\__tikzsymbols_if_empty:Tn {green}}O{green}m' on line
+. 1132.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \dcChangey with sig. '>{\__tikzsymbols_scale_if_empty:nTn
+. {dcChangey}{1}}O{1}>{\__tikzsymbols_if_empty:Tn
+. {red}}O{red}>{\__tikzsymbols_if_empty:Tn
+. {yellow}}O{yellow}>{\__tikzsymbols_if_empty:Tn {green}}O{green}m' on line
+. 1186.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \Annoey with sig. '>{\__tikzsymbols_scale_if_empty:nTn
+. {Annoey}{1}}O{1}>{\__tikzsymbols_if_empty:Tn {none}}O{none}' on line 1208.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \dAnnoey with sig. '>{\__tikzsymbols_scale_if_empty:nTn
+. {dAnnoey}{1}}O{1}>{\__tikzsymbols_if_empty:Tn {yellow}}O{yellow}' on line
+. 1230.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \Smiley with sig. '>{\__tikzsymbols_scale_if_empty:nTn
+. {Smiley}{1}}O{1}>{\__tikzsymbols_if_empty:Tn {none}}O{none}' on line 1255.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \dSmiley with sig. '>{\__tikzsymbols_scale_if_empty:nTn
+. {dSmiley}{1}}O{1}>{\__tikzsymbols_if_empty:Tn {yellow}}O{yellow}' on line
+. 1277.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \Laughey with sig. '>{\__tikzsymbols_scale_if_empty:nTn
+. {Laughey}{1}}O{1}>{\__tikzsymbols_if_empty:Tn
+. {none}}O{none}>{\__tikzsymbols_if_empty:Tn {none}}O{none}' on line 1301.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \dLaughey with sig. '>{\__tikzsymbols_scale_if_empty:nTn
+. {dLaughey}{1}}O{1}>{\__tikzsymbols_if_empty:Tn
+. {yellow}}O{yellow}>{\__tikzsymbols_if_empty:Tn {red}}O{red}' on line 1329.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \Neutrey with sig. '>{\__tikzsymbols_scale_if_empty:nTn
+. {Neutrey}{1}}O{1}>{\__tikzsymbols_if_empty:Tn {none}}O{none}' on line 1351.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \dNeutrey with sig. '>{\__tikzsymbols_scale_if_empty:nTn
+. {dNeutrey}{1}}O{1}>{\__tikzsymbols_if_empty:Tn {yellow}}O{yellow}' on line
+. 1373.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \Winkey with sig. '>{\__tikzsymbols_scale_if_empty:nTn
+. {Winkey}{1}}O{1}>{\__tikzsymbols_if_empty:Tn {none}}O{none}' on line 1395.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \oldWinkey with sig. '>{\__tikzsymbols_scale_if_empty:nTn
+. {oldWinkey}{1}}O{1}>{\__tikzsymbols_if_empty:Tn {none}}O{none}' on line
+. 1417.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \dWinkey with sig. '>{\__tikzsymbols_scale_if_empty:nTn
+. {dWinkey}{1}}O{1}>{\__tikzsymbols_if_empty:Tn {yellow}}O{yellow}' on line
+. 1439.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \olddWinkey with sig. '>{\__tikzsymbols_scale_if_empty:nTn
+. {olddWinkey}{1}}O{1}>{\__tikzsymbols_if_empty:Tn {yellow}}O{yellow}' on line
+. 1461.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \Sey with sig. '>{\__tikzsymbols_scale_if_empty:nTn
+. {Sey}{1}}O{1}>{\__tikzsymbols_if_empty:Tn {none}}O{none}' on line 1483.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \dSey with sig. '>{\__tikzsymbols_scale_if_empty:nTn
+. {dSey}{1}}O{1}>{\__tikzsymbols_if_empty:Tn {yellow}}O{yellow}' on line 1505.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \Xey with sig. '>{\__tikzsymbols_scale_if_empty:nTn
+. {Xey}{1}}O{1}>{\__tikzsymbols_if_empty:Tn {none}}O{none}' on line 1527.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \dXey with sig. '>{\__tikzsymbols_scale_if_empty:nTn
+. {dXey}{1}}O{1}>{\__tikzsymbols_if_empty:Tn {yellow}}O{yellow}' on line 1551.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \Innocey with sig. '>{\__tikzsymbols_scale_if_empty:nTn
+. {Innocey}{1}}O{1}>{\__tikzsymbols_if_empty:Tn
+. {none}}O{none}>{\__tikzsymbols_if_empty:Tn {yellow}}O{yellow}' on line 1584.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \wInnocey with sig. '>{\__tikzsymbols_scale_if_empty:nTn
+. {wInnocey}{1}}O{1}' on line 1591.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \dInnocey with sig. '>{\__tikzsymbols_scale_if_empty:nTn
+. {dInnocey}{1}}O{1}>{\__tikzsymbols_if_empty:Tn
+. {yellow}}O{yellow}>{\__tikzsymbols_if_empty:Tn {yellow}}O{yellow}' on line
+. 1622.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \Cooley with sig. '>{\__tikzsymbols_scale_if_empty:nTn
+. {Cooley}{1}}O{1}>{\__tikzsymbols_if_empty:Tn {none}}O{none}' on line 1648.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \dCooley with sig. '>{\__tikzsymbols_scale_if_empty:nTn
+. {dCooley}{1}}O{1}>{\__tikzsymbols_if_empty:Tn {yellow}}O{yellow}' on line
+. 1674.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \Tongey with sig. '>{\__tikzsymbols_scale_if_empty:nTn
+. {Tongey}{1}}O{1}>{\__tikzsymbols_if_empty:Tn
+. {none}}O{none}>{\__tikzsymbols_if_empty:Tn {none}}O{none}' on line 1703.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \dTongey with sig. '>{\__tikzsymbols_scale_if_empty:nTn
+. {dTongey}{1}}O{1}>{\__tikzsymbols_if_empty:Tn
+. {yellow}}O{yellow}>{\__tikzsymbols_if_empty:Tn {red}}O{red}' on line 1732.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \Nursey with sig. '>{\__tikzsymbols_scale_if_empty:nTn
+. {Nursey}{1}}O{1}>{\__tikzsymbols_if_empty:Tn
+. {none}}O{none}>{\__tikzsymbols_if_empty:Tn
+. {none}}O{none}>{\__tikzsymbols_if_empty:Tn {}}O{}' on line 1763.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \dNursey with sig. '>{\__tikzsymbols_scale_if_empty:nTn
+. {dNursey}{1}}O{1}>{\__tikzsymbols_if_empty:Tn
+. {yellow}}O{yellow}>{\__tikzsymbols_if_empty:Tn
+. {white}}O{white}>{\__tikzsymbols_if_empty:Tn {red}}O{red}' on line 1799.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \Vomey with sig. '>{\__tikzsymbols_scale_if_empty:nTn
+. {Vomey}{1}}O{1}>{\__tikzsymbols_if_empty:Tn
+. {none}}O{none}>{\__tikzsymbols_if_empty:Tn {opacity=0}}O{opacity=0}' on line
+. 1836.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \dVomey with sig. '>{\__tikzsymbols_scale_if_empty:nTn
+. {dVomey}{1}}O{1}>{\__tikzsymbols_if_empty:Tn
+. {yellow}}O{yellow}>{\__tikzsymbols_if_empty:Tn
+. {brown!10!olive}}O{brown!10!olive}' on line 1875.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \Walley with sig. '>{\__tikzsymbols_scale_if_empty:nTn
+. {Walley}{1}}O{1}>{\__tikzsymbols_if_empty:Tn
+. {none}}O{none}>{\__tikzsymbols_if_empty:Tn {none}}O{none}' on line 1916.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \rWalley with sig. '>{\__tikzsymbols_scale_if_empty:nTn
+. {rWalley}{1}}O{1}>{\__tikzsymbols_if_empty:Tn
+. {none}}O{none}>{\__tikzsymbols_if_empty:Tn {none}}O{none}' on line 1949.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \dWalley with sig. '>{\__tikzsymbols_scale_if_empty:nTn
+. {dWalley}{1}}O{1}>{\__tikzsymbols_if_empty:Tn {yellow}}O{yellow}' on line
+. 1986.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \drWalley with sig. '>{\__tikzsymbols_scale_if_empty:nTn
+. {drWalley}{1}}O{1}>{\__tikzsymbols_if_empty:Tn {yellow}}O{yellow}' on line
+. 2019.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \Cat with sig. '>{\__tikzsymbols_scale_if_empty:nTn
+. {Cat}{1}}O{1}' on line 2125.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \SchrodingersCat with sig.
+. '>{\__tikzsymbols_scale_if_empty:nTn {SchrodingersCat}{1}}O{1}m' on line
+. 2152.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \Ninja with sig. '>{\__tikzsymbols_scale_if_empty:nTn
+. {Ninja}{1}}O{1}>{\__tikzsymbols_if_empty:Tn
+. {black}}O{black}>{\__tikzsymbols_if_empty:Tn
+. {red}}O{red}>{\__tikzsymbols_if_empty:Tn {white}}O{white}' on line 2207.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \dNinja with sig. '>{\__tikzsymbols_scale_if_empty:nTn
+. {dNinja}{1}}O{1}>{\__tikzsymbols_if_empty:Tn
+. {black}}O{black}>{\__tikzsymbols_if_empty:Tn
+. {red}}O{red}>{\__tikzsymbols_if_empty:Tn {white}}O{white}' on line 2259.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \Sleepey with sig. '>{\__tikzsymbols_scale_if_empty:nTn
+. {Sleepey}{1}}O{1}>{\__tikzsymbols_if_empty:Tn
+. {none}}O{none}>{\__tikzsymbols_if_empty:Tn
+. {none}}O{none}>{\__tikzsymbols_if_empty:Tn {black}}O{black}' on line 2308.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \dSleepey with sig. '>{\__tikzsymbols_scale_if_empty:nTn
+. {dSleepey}{1}}O{1}>{\__tikzsymbols_if_empty:Tn
+. {yellow}}O{yellow}>{\__tikzsymbols_if_empty:Tn
+. {blue}}O{blue}>{\__tikzsymbols_if_empty:Tn {black}}O{black}' on line 2357.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \NiceReapey with sig. '>{\__tikzsymbols_scale_if_empty:nTn
+. {NiceReapey}{1}}O{1}>{\__tikzsymbols_if_empty:Tn
+. {black!20!white}}O{black!20!white}' on line 2391.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \Strichmaxerl with sig.
+. '>{\__tikzsymbols_scale_if_empty:nTn
+. {Strichmaxerl}{1}}O{1}>{\__tikzsymbols_if_empty:Tn
+. {-22}}O{-22}>{\__tikzsymbols_if_empty:Tn
+. {22}}O{22}>{\__tikzsymbols_if_empty:Tn
+. {27}}O{27}>{\__tikzsymbols_if_empty:Tn {-27}}O{-27}' on line 2487.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \Person with sig. '>{\__tikzsymbols_scale_if_empty:nTn
+. {Person}{1}}O{1}>{\__tikzsymbols_if_empty:Tn
+. {-22}}O{-22}>{\__tikzsymbols_if_empty:Tn
+. {22}}O{22}>{\__tikzsymbols_if_empty:Tn
+. {27}}O{27}>{\__tikzsymbols_if_empty:Tn {-27}}O{-27}' on line 2496.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \Candle with sig. '>{\__tikzsymbols_scale_if_empty:nTn
+. {Candle}{1}}O{1}' on line 2522.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \Fire with sig. '>{\__tikzsymbols_scale_if_empty:nTn
+. {Fire}{1}}O{1}' on line 2567.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \Coffeecup with sig. '>{\__tikzsymbols_scale_if_empty:nTn
+. {Coffeecup}{1}}O{1}' on line 2602.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \Chair with sig. '>{\__tikzsymbols_scale_if_empty:nTn
+. {Chair}{1}}O{1}' on line 2631.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \Bed with sig. '>{\__tikzsymbols_scale_if_empty:nTn
+. {Bed}{1}}O{1}' on line 2657.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \Tribar with sig. '>{\__tikzsymbols_scale_if_empty:nTn
+. {Tribar}{1}}O{1}>{\__tikzsymbols_if_empty:Tn
+. {opacity=0}}O{opacity=0}>{\__tikzsymbols_if_empty:Tn
+. {opacity=0}}O{opacity=0}>{\__tikzsymbols_if_empty:Tn
+. {opacity=0}}O{opacity=0}' on line 2692.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \Moai with sig. '>{\__tikzsymbols_scale_if_empty:nTn
+. {Moai}{1}}O{1}' on line 2742.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \Snowman with sig. '>{\__tikzsymbols_scale_if_empty:nTn
+. {Snowman}{1}}O{1}' on line 2794.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \BasicTree with sig. '>{\__tikzsymbols_scale_if_empty:nTn
+. {BasicTree}{1}}O{1}mmmm' on line 2815.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \WorstTree with sig. '>{\__tikzsymbols_scale_if_empty:nTn
+. {WorstTree}{1}}O{1}' on line 2851.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \Springtree with sig. '>{\__tikzsymbols_scale_if_empty:nTn
+. {Springtree}{1}}O{1}' on line 2860.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \Summertree with sig. '>{\__tikzsymbols_scale_if_empty:nTn
+. {Summertree}{1}}O{1}' on line 2869.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \Autumntree with sig. '>{\__tikzsymbols_scale_if_empty:nTn
+. {Autumntree}{1}}O{1}' on line 2878.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \Wintertree with sig. '>{\__tikzsymbols_scale_if_empty:nTn
+. {Wintertree}{1}}O{1}' on line 2887.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \tikzsymbolsuse with sig. 'm' on line 2908.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \tikzsymbolsset with sig. 'm' on line 2919.
+.................................................
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count327
+\lst@gtempboxa=\box80
+\lst@token=\toks49
+\lst@length=\count328
+\lst@currlwidth=\dimen299
+\lst@column=\count329
+\lst@pos=\count330
+\lst@lostspace=\dimen300
+\lst@width=\dimen301
+\lst@newlines=\count331
+\lst@lineno=\count332
+\lst@maxwidth=\dimen302
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
+\c@lstnumber=\count333
+\lst@skipnumbers=\count334
+\lst@framebox=\box81
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2015/06/04 1.6 listings configuration
+))
+Package: listings 2015/06/04 1.6 (Carsten Heinz)
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/doublestroke/dsfont.sty
+Package: dsfont 1995/08/01 v0.1 Double stroke roman fonts
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/pgfplots/pgfplots.sty
+(/usr/local/texlive/2018/texmf-dist/tex/generic/pgfplots/pgfplots.revision.tex)
+Package: pgfplots 2018/03/28 v1.16 Data Visualization (1.16)
+(/usr/local/texlive/2018/texmf-dist/tex/generic/pgfplots/pgfplots.code.tex
+(/usr/local/texlive/2018/texmf-dist/tex/generic/pgfplots/pgfplotscore.code.tex
+\t@pgfplots@toka=\toks50
+\t@pgfplots@tokb=\toks51
+\t@pgfplots@tokc=\toks52
+\pgfplots@tmpa=\dimen303
+\c@pgfplots@coordindex=\count335
+\c@pgfplots@scanlineindex=\count336
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/pgfplots/sys/pgfplotssysgeneric
+.code.tex))
+(/usr/local/texlive/2018/texmf-dist/tex/generic/pgfplots/libs/pgfplotslibrary.c
+ode.tex)
+(/usr/local/texlive/2018/texmf-dist/tex/generic/pgfplots/oldpgfcompatib/pgfplot
+soldpgfsupp_loader.code.tex
+(/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/libraries/pgflibraryfpu.cod
+e.tex)
+Package pgfplots: loading complementary arithmetics for your pgf version...
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/pgfplots/oldpgfcompatib/pgfplot
+soldpgfsupp_pgflibraryfpu.code.tex)
+(/usr/local/texlive/2018/texmf-dist/tex/generic/pgfplots/oldpgfcompatib/pgfplot
+soldpgfsupp_pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count337
+)
+(/usr/local/texlive/2018/texmf-dist/tex/generic/pgfplots/oldpgfcompatib/pgfplot
+soldpgfsupp_leq.code.tex))
+(/usr/local/texlive/2018/texmf-dist/tex/generic/pgfplots/util/pgfplotsutil.code
+.tex
+(/usr/local/texlive/2018/texmf-dist/tex/generic/pgfplots/liststructure/pgfplots
+liststructure.code.tex)
+(/usr/local/texlive/2018/texmf-dist/tex/generic/pgfplots/liststructure/pgfplots
+liststructureext.code.tex)
+(/usr/local/texlive/2018/texmf-dist/tex/generic/pgfplots/liststructure/pgfplots
+array.code.tex
+\c@pgfplotsarray@tmp=\count338
+)
+(/usr/local/texlive/2018/texmf-dist/tex/generic/pgfplots/liststructure/pgfplots
+matrix.code.tex)
+(/usr/local/texlive/2018/texmf-dist/tex/generic/pgfplots/numtable/pgfplotstable
+shared.code.tex
+\c@pgfplotstable@counta=\count339
+\t@pgfplotstable@a=\toks53
+)
+(/usr/local/texlive/2018/texmf-dist/tex/generic/pgfplots/liststructure/pgfplots
+deque.code.tex)
+(/usr/local/texlive/2018/texmf-dist/tex/generic/pgfplots/util/pgfplotsbinary.co
+de.tex
+(/usr/local/texlive/2018/texmf-dist/tex/generic/pgfplots/util/pgfplotsbinary.da
+ta.code.tex))
+(/usr/local/texlive/2018/texmf-dist/tex/generic/pgfplots/util/pgfplotsutil.verb
+.code.tex)
+(/usr/local/texlive/2018/texmf-dist/tex/generic/pgfplots/libs/pgflibrarypgfplot
+s.surfshading.code.tex
+\c@pgfplotslibrarysurf@no=\count340
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/pgfplots/sys/pgflibrarypgfplots
+.surfshading.pgfsys-pdftex.def)))
+(/usr/local/texlive/2018/texmf-dist/tex/generic/pgfplots/util/pgfplotscolormap.
+code.tex
+(/usr/local/texlive/2018/texmf-dist/tex/generic/pgfplots/util/pgfplotscolor.cod
+e.tex))
+(/usr/local/texlive/2018/texmf-dist/tex/generic/pgfplots/pgfplotsstackedplots.c
+ode.tex)
+(/usr/local/texlive/2018/texmf-dist/tex/generic/pgfplots/pgfplotsplothandlers.c
+ode.tex
+(/usr/local/texlive/2018/texmf-dist/tex/generic/pgfplots/pgfplotsmeshplothandle
+r.code.tex
+(/usr/local/texlive/2018/texmf-dist/tex/generic/pgfplots/pgfplotsmeshplotimage.
+code.tex)))
+(/usr/local/texlive/2018/texmf-dist/tex/generic/pgfplots/pgfplots.scaling.code.
+tex)
+(/usr/local/texlive/2018/texmf-dist/tex/generic/pgfplots/pgfplotscoordprocessin
+g.code.tex)
+(/usr/local/texlive/2018/texmf-dist/tex/generic/pgfplots/pgfplots.errorbars.cod
+e.tex)
+(/usr/local/texlive/2018/texmf-dist/tex/generic/pgfplots/pgfplots.markers.code.
+tex)
+(/usr/local/texlive/2018/texmf-dist/tex/generic/pgfplots/pgfplotsticks.code.tex
+)
+(/usr/local/texlive/2018/texmf-dist/tex/generic/pgfplots/pgfplots.paths.code.te
+x)
+(/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibrarydecorations.pathreplacing.code.tex
+(/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/libraries/decorations/pgfli
+brarydecorations.pathreplacing.code.tex))
+\pgfplots@numplots=\count341
+\pgfplots@xmin@reg=\dimen304
+\pgfplots@xmax@reg=\dimen305
+\pgfplots@ymin@reg=\dimen306
+\pgfplots@ymax@reg=\dimen307
+\pgfplots@zmin@reg=\dimen308
+\pgfplots@zmax@reg=\dimen309
+)
+(/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibraryplotmarks.code.tex
+File: tikzlibraryplotmarks.code.tex 2008/01/09 v3.0.1a (rcs-revision 1.1)
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/libraries/pgflibraryplotmar
+ks.code.tex
+File: pgflibraryplotmarks.code.tex 2015/08/03 v3.0.1a (rcs-revision 1.14)
+)))
+(/usr/local/texlive/2018/texmf-dist/tex/latex/jknapltx/mathrsfs.sty
+Package: mathrsfs 1996/01/01 Math RSFS package v1.0 (jk)
+\symrsfs=\mathgroup6
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(/usr/local/texlive/2018/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks54
+\XKV@tempa@toks=\toks55
+)
+\XKV@depth=\count342
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+\boiboite=\box82
+\c@test=\count343
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/beamer/beamerthemeWarsaw.sty
+(/usr/local/texlive/2018/texmf-dist/tex/latex/beamer/beamerinnerthemerounded.st
+y)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/beamer/beamerouterthemeshadow.sty
+(/usr/local/texlive/2018/texmf-dist/tex/latex/beamer/beamerouterthemesplit.sty)
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/beamer/beamercolorthemeorchid.sty
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/beamer/beamercolorthemewhale.sty)
+) (./lec.aux)
+\openout1 = `lec.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 12.
+LaTeX Font Info:    Try loading font information for T3+cmr on input line 12.
+ (/usr/local/texlive/2018/texmf-dist/tex/latex/tipa/t3cmr.fd
+File: t3cmr.fd 2001/12/31 TIPA font definitions
+)
+LaTeX Font Info:    ... okay on input line 12.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: custom
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: includehead includefoot 
+* h-part:(L,W,R)=(28.45274pt, 307.28987pt, 28.45274pt)
+* v-part:(T,H,B)=(0.0pt, 273.14662pt, 0.0pt)
+* \paperwidth=364.19536pt
+* \paperheight=273.14662pt
+* \textwidth=307.28987pt
+* \textheight=244.6939pt
+* \oddsidemargin=-43.81725pt
+* \evensidemargin=-43.81725pt
+* \topmargin=-72.26999pt
+* \headheight=14.22636pt
+* \headsep=0.0pt
+* \topskip=11.0pt
+* \footskip=14.22636pt
+* \marginparwidth=4.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(/usr/local/texlive/2018/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count344
+\scratchdimen=\dimen310
+\scratchbox=\box83
+\nofMPsegments=\count345
+\nofMParguments=\count346
+\everyMPshowfont=\toks56
+\MPscratchCnt=\count347
+\MPscratchDim=\dimen311
+\MPnumerator=\count348
+\makeMPintoPDFobject=\count349
+\everyMPtoPDFconversion=\toks57
+) (/usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+ABD: EveryShipout initializing macros
+\AtBeginShipoutBox=\box84
+Package hyperref Info: Link coloring OFF on input line 12.
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
+)
+\c@section@level=\count350
+)
+LaTeX Info: Redefining \ref on input line 12.
+LaTeX Info: Redefining \pageref on input line 12.
+LaTeX Info: Redefining \nameref on input line 12.
+
+(./lec.out) (./lec.out)
+\@outlinefile=\write5
+\openout5 = `lec.out'.
+
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 12.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 12.
+\symnumbers=\mathgroup7
+\sympureletters=\mathgroup8
+LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT1/cmr/m/n on input line 12.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 12.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 12.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 12.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 12.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT1/cmss/m/n on input line 12.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> OT1/cmss/m/n on input line 12.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 12.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/cmss/m/it on input line 12.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/cmss/m/it on input line 12.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 12.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 12.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 12.
+LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
+(Font)                  OT1/cmss/m/n --> OT1/cmss/bx/n on input line 12.
+LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
+(Font)                  OT1/cmss/m/it --> OT1/cmss/bx/it on input line 12.
+LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
+(Font)                  OT1/cmss/bx/n --> OT1/cmr/bx/n on input line 12.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> OT1/cmss/bx/n on input line 12.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/m/n --> OT1/cmss/bx/n on input line 12.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmss/m/it --> OT1/cmss/bx/it on input line 12.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/bx/n on input line 12.
+LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 12.
+LaTeX Font Info:    Overwriting symbol font `pureletters' in version `normal'
+(Font)                  OT1/cmss/m/it --> OT1/mathkerncmss/m/sl on input line 1
+2.
+LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
+(Font)                  OT1/cmss/bx/it --> OT1/mathkerncmss/m/sl on input line 
+12.
+LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
+(Font)                  OT1/mathkerncmss/m/sl --> OT1/mathkerncmss/bx/sl on inp
+ut line 12.
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/translator/translator-basic-dicti
+onary-English.dict
+Dictionary: translator-basic-dictionary, Language: English 
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/translator/translator-bibliograph
+y-dictionary-English.dict
+Dictionary: translator-bibliography-dictionary, Language: English 
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/translator/translator-environment
+-dictionary-English.dict
+Dictionary: translator-environment-dictionary, Language: English 
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/translator/translator-months-dict
+ionary-English.dict
+Dictionary: translator-months-dictionary, Language: English 
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/translator/translator-numbers-dic
+tionary-English.dict
+Dictionary: translator-numbers-dictionary, Language: English 
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/translator/translator-theorem-dic
+tionary-English.dict
+Dictionary: translator-theorem-dictionary, Language: English 
+)
+\c@lstlisting=\count351
+
+Package pgfplots notification 'compat/show suggested version=true': you might b
+enefit from \pgfplotsset{compat=1.16} (current compat level: 1.15).
+
+(./lec.nav) [1
+
+{/usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2] [3
+
+] [4
+
+]
+<iso1.png, id=137, 460.72125pt x 406.51875pt>
+File: iso1.png Graphic file (type png)
+<use iso1.png>
+Package pdftex.def Info: iso1.png  used on input line 55.
+(pdftex.def)             Requested size: 184.28523pt x 162.60461pt.
+LaTeX Font Info:    Try loading font information for U+msa on input line 55.
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 55.
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Try loading font information for U+rsfs on input line 55.
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/jknapltx/ursfs.fd
+File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
+)
+LaTeX Font Info:    Try loading font information for OT1+mathkerncmss on input 
+line 55.
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/sansmathaccent/ot1mathkerncmss.fd
+File: ot1mathkerncmss.fd 2013/03/27 Fontinst v1.933 font definitions for OT1/ma
+thkerncmss.
+) [5
+
+ <./iso1.png>]
+File: iso1.png Graphic file (type png)
+<use iso1.png>
+Package pdftex.def Info: iso1.png  used on input line 67.
+(pdftex.def)             Requested size: 184.28523pt x 162.60461pt.
+ [6
+
+]
+<iso2.png, id=196, 440.64626pt x 404.51125pt>
+File: iso2.png Graphic file (type png)
+<use iso2.png>
+Package pdftex.def Info: iso2.png  used on input line 77.
+(pdftex.def)             Requested size: 176.25537pt x 161.80162pt.
+ [7
+
+ <./iso2.png>]
+<iso3.png, id=225, 442.65375pt x 395.4775pt>
+File: iso3.png Graphic file (type png)
+<use iso3.png>
+Package pdftex.def Info: iso3.png  used on input line 89.
+(pdftex.def)             Requested size: 177.05835pt x 158.18819pt.
+ [8
+
+ <./iso3.png>]
+<iso4.png, id=254, 431.6125pt x 446.66875pt>
+File: iso4.png Graphic file (type png)
+<use iso4.png>
+Package pdftex.def Info: iso4.png  used on input line 99.
+(pdftex.def)             Requested size: 172.64194pt x 178.66432pt.
+ [9
+
+ <./iso4.png>]
+<iso5.png, id=282, 447.6725pt x 469.755pt>
+File: iso5.png Graphic file (type png)
+<use iso5.png>
+Package pdftex.def Info: iso5.png  used on input line 112.
+(pdftex.def)             Requested size: 179.06583pt x 187.89867pt.
+
+[10
+
+ <./iso5.png>]
+<iso6.png, id=310, 388.45125pt x 357.335pt>
+File: iso6.png Graphic file (type png)
+<use iso6.png>
+Package pdftex.def Info: iso6.png  used on input line 123.
+(pdftex.def)             Requested size: 155.37773pt x 142.93146pt.
+ [11
+
+ <./iso6.png>]
+<iso7.png, id=338, 393.47pt x 421.575pt>
+File: iso7.png Graphic file (type png)
+<use iso7.png>
+Package pdftex.def Info: iso7.png  used on input line 137.
+(pdftex.def)             Requested size: 157.38521pt x 168.627pt.
+ [12
+
+ <./iso7.png>]
+File: iso7.png Graphic file (type png)
+<use iso7.png>
+Package pdftex.def Info: iso7.png  used on input line 148.
+(pdftex.def)             Requested size: 157.38521pt x 168.627pt.
+ [13
+
+]
+File: iso7.png Graphic file (type png)
+<use iso7.png>
+Package pdftex.def Info: iso7.png  used on input line 162.
+(pdftex.def)             Requested size: 157.38521pt x 168.627pt.
+ [14
+
+]
+<iso8.png, id=420, 419.5675pt x 317.185pt>
+File: iso8.png Graphic file (type png)
+<use iso8.png>
+Package pdftex.def Info: iso8.png  used on input line 171.
+(pdftex.def)             Requested size: 167.82402pt x 126.87173pt.
+ [15
+
+ <./iso8.png>]
+<iso9.png, id=448, 418.56375pt x 310.15875pt>
+File: iso9.png Graphic file (type png)
+<use iso9.png>
+Package pdftex.def Info: iso9.png  used on input line 182.
+(pdftex.def)             Requested size: 167.42252pt x 124.0613pt.
+ [16
+
+ <./iso9.png>]
+<iso10.png, id=477, 417.56pt x 276.03125pt>
+File: iso10.png Graphic file (type png)
+<use iso10.png>
+Package pdftex.def Info: iso10.png  used on input line 193.
+(pdftex.def)             Requested size: 167.02103pt x 110.41054pt.
+ [17
+
+ <./iso10.png>]
+File: iso10.png Graphic file (type png)
+<use iso10.png>
+Package pdftex.def Info: iso10.png  used on input line 206.
+(pdftex.def)             Requested size: 167.02103pt x 110.41054pt.
+ [18
+
+]
+<iso11.png, id=531, 437.635pt x 316.18124pt>
+File: iso11.png Graphic file (type png)
+<use iso11.png>
+Package pdftex.def Info: iso11.png  used on input line 215.
+(pdftex.def)             Requested size: 175.05089pt x 126.47025pt.
+ [19
+
+ <./iso11.png>]
+File: iso10.png Graphic file (type png)
+<use iso10.png>
+Package pdftex.def Info: iso10.png  used on input line 230.
+(pdftex.def)             Requested size: 167.02103pt x 110.41054pt.
+ [20
+
+]
+<iso12.png, id=587, 454.69875pt x 356.33125pt>
+File: iso12.png Graphic file (type png)
+<use iso12.png>
+Package pdftex.def Info: iso12.png  used on input line 239.
+(pdftex.def)             Requested size: 181.87627pt x 142.52997pt.
+ [21
+
+ <./iso12.png>]
+<iso13.png, id=615, 463.7325pt x 359.3425pt>
+File: iso13.png Graphic file (type png)
+<use iso13.png>
+Package pdftex.def Info: iso13.png  used on input line 251.
+(pdftex.def)             Requested size: 185.4897pt x 143.73445pt.
+
+Overfull \hbox (1.1139pt too wide) in paragraph at lines 251--251
+[][]  
+ []
+
+[22
+
+ <./iso13.png>]
+File: iso13.png Graphic file (type png)
+<use iso13.png>
+Package pdftex.def Info: iso13.png  used on input line 265.
+(pdftex.def)             Requested size: 185.4897pt x 143.73445pt.
+
+Overfull \hbox (1.1139pt too wide) in paragraph at lines 265--265
+[][]  
+ []
+
+[23
+
+]
+<iso23.png, id=669, 488.82625pt x 461.725pt>
+File: iso23.png Graphic file (type png)
+<use iso23.png>
+Package pdftex.def Info: iso23.png  used on input line 276.
+(pdftex.def)             Requested size: 166.19872pt x 156.98442pt.
+ [24
+
+ <./iso23.png>]
+File: iso23.png Graphic file (type png)
+<use iso23.png>
+Package pdftex.def Info: iso23.png  used on input line 293.
+(pdftex.def)             Requested size: 166.19872pt x 156.98442pt.
+ [25
+
+]
+<iso14.png, id=726, 396.48125pt x 342.27875pt>
+File: iso14.png Graphic file (type png)
+<use iso14.png>
+Package pdftex.def Info: iso14.png  used on input line 302.
+(pdftex.def)             Requested size: 158.58968pt x 136.90906pt.
+ [26
+
+ <./iso14.png>]
+<iso15.png, id=754, 380.42125pt x 305.14pt>
+File: iso15.png Graphic file (type png)
+<use iso15.png>
+Package pdftex.def Info: iso15.png  used on input line 314.
+(pdftex.def)             Requested size: 152.16579pt x 122.05382pt.
+ [27
+
+ <./iso15.png>]
+<iso16.png, id=782, 337.26pt x 265.99374pt>
+File: iso16.png Graphic file (type png)
+<use iso16.png>
+Package pdftex.def Info: iso16.png  used on input line 323.
+(pdftex.def)             Requested size: 134.9016pt x 106.3956pt.
+ [28
+
+ <./iso16.png>]
+File: iso16.png Graphic file (type png)
+<use iso16.png>
+Package pdftex.def Info: iso16.png  used on input line 334.
+(pdftex.def)             Requested size: 134.9016pt x 106.3956pt.
+ [29
+
+]
+<iso17.png, id=837, 434.62375pt x 357.335pt>
+File: iso17.png Graphic file (type png)
+<use iso17.png>
+Package pdftex.def Info: iso17.png  used on input line 343.
+(pdftex.def)             Requested size: 173.8464pt x 142.93146pt.
+ [30
+
+ <./iso17.png>]
+<iso18.png, id=865, 489.83pt x 410.53375pt>
+File: iso18.png Graphic file (type png)
+<use iso18.png>
+Package pdftex.def Info: iso18.png  used on input line 360.
+(pdftex.def)             Requested size: 195.92853pt x 164.21059pt.
+
+Overfull \hbox (11.55273pt too wide) in paragraph at lines 360--360
+[][]  
+ []
+
+[31
+
+ <./iso18.png>]
+<iso19.png, id=894, 397.485pt x 336.25626pt>
+File: iso19.png Graphic file (type png)
+<use iso19.png>
+Package pdftex.def Info: iso19.png  used on input line 369.
+(pdftex.def)             Requested size: 158.99118pt x 134.5001pt.
+ [32
+
+ <./iso19.png>]
+<iso20.png, id=923, 453.695pt x 403.5075pt>
+File: iso20.png Graphic file (type png)
+<use iso20.png>
+Package pdftex.def Info: iso20.png  used on input line 387.
+(pdftex.def)             Requested size: 181.47478pt x 161.40013pt.
+ [33
+
+ <./iso20.png>]
+<iso21.png, id=951, 322.20375pt x 334.24875pt>
+File: iso21.png Graphic file (type png)
+<use iso21.png>
+Package pdftex.def Info: iso21.png  used on input line 396.
+(pdftex.def)             Requested size: 128.87921pt x 133.69713pt.
+ [34
+
+ <./iso21.png>]
+File: iso21.png Graphic file (type png)
+<use iso21.png>
+Package pdftex.def Info: iso21.png  used on input line 410.
+(pdftex.def)             Requested size: 128.87921pt x 133.69713pt.
+
+[35
+
+]
+<iso22.png, id=1005, 428.60126pt x 261.97874pt>
+File: iso22.png Graphic file (type png)
+<use iso22.png>
+Package pdftex.def Info: iso22.png  used on input line 419.
+(pdftex.def)             Requested size: 171.43745pt x 104.78964pt.
+ [36
+
+ <./iso22.png>]
+File: iso22.png Graphic file (type png)
+<use iso22.png>
+Package pdftex.def Info: iso22.png  used on input line 433.
+(pdftex.def)             Requested size: 171.43745pt x 104.78964pt.
+ [37
+
+] [38
+
+] [39
+
+] [40
+
+] [41
+
+] [42
+
+] [43
+
+] [44
+
+] [45
+
+] [46
+
+]
+[47
+
+] [48
+
+] [49
+
+] [50
+
+] [51
+
+]
+<cong1.png, id=1432, 422.57875pt x 594.22pt>
+File: cong1.png Graphic file (type png)
+<use cong1.png>
+Package pdftex.def Info: cong1.png  used on input line 561.
+(pdftex.def)             Requested size: 126.7746pt x 178.26736pt.
+ [52
+
+ <./cong1.png>]
+File: cong1.png Graphic file (type png)
+<use cong1.png>
+Package pdftex.def Info: cong1.png  used on input line 575.
+(pdftex.def)             Requested size: 126.7746pt x 178.26736pt.
+ [53
+
+]
+<spi1.png, id=1487, 539.01375pt x 409.53pt>
+File: spi1.png Graphic file (type png)
+<use spi1.png>
+Package pdftex.def Info: spi1.png  used on input line 585.
+(pdftex.def)             Requested size: 183.26224pt x 139.23834pt.
+ [54
+
+ <./spi1.png>]
+File: spi1.png Graphic file (type png)
+<use spi1.png>
+Package pdftex.def Info: spi1.png  used on input line 600.
+(pdftex.def)             Requested size: 183.26224pt x 139.23834pt.
+ [55
+
+]
+File: spi1.png Graphic file (type png)
+<use spi1.png>
+Package pdftex.def Info: spi1.png  used on input line 616.
+(pdftex.def)             Requested size: 215.60167pt x 163.80908pt.
+
+Overfull \hbox (31.22588pt too wide) in paragraph at lines 616--616
+[][]  
+ []
+
+[56
+
+]
+File: spi1.png Graphic file (type png)
+<use spi1.png>
+Package pdftex.def Info: spi1.png  used on input line 633.
+(pdftex.def)             Requested size: 215.60167pt x 163.80908pt.
+
+Overfull \hbox (31.22588pt too wide) in paragraph at lines 633--633
+[][]  
+ []
+
+[57
+
+]
+File: spi1.png Graphic file (type png)
+<use spi1.png>
+Package pdftex.def Info: spi1.png  used on input line 644.
+(pdftex.def)             Requested size: 199.43196pt x 151.52371pt.
+
+Overfull \hbox (15.05617pt too wide) in paragraph at lines 644--644
+[][]  
+ []
+
+[58
+
+]
+<spi2.png, id=1621, 524.96124pt x 423.5825pt>
+File: spi2.png Graphic file (type png)
+<use spi2.png>
+Package pdftex.def Info: spi2.png  used on input line 655.
+(pdftex.def)             Requested size: 194.23262pt x 156.72307pt.
+
+Overfull \hbox (9.85683pt too wide) in paragraph at lines 655--655
+[][]  
+ []
+
+[59
+
+ <./spi2.png>]
+File: spi2.png Graphic file (type png)
+<use spi2.png>
+Package pdftex.def Info: spi2.png  used on input line 666.
+(pdftex.def)             Requested size: 194.23262pt x 156.72307pt.
+
+Overfull \hbox (9.85683pt too wide) in paragraph at lines 666--666
+[][]  
+ []
+
+[60
+
+]
+<spi3.png, id=1676, 518.93875pt x 457.71pt>
+File: spi3.png Graphic file (type png)
+<use spi3.png>
+Package pdftex.def Info: spi3.png  used on input line 677.
+(pdftex.def)             Requested size: 192.00433pt x 169.35005pt.
+
+Overfull \hbox (7.62854pt too wide) in paragraph at lines 677--677
+[][]  
+ []
+
+[61
+
+ <./spi3.png>]
+File: spi3.png Graphic file (type png)
+<use spi3.png>
+Package pdftex.def Info: spi3.png  used on input line 688.
+(pdftex.def)             Requested size: 192.00433pt x 169.35005pt.
+
+Overfull \hbox (7.62854pt too wide) in paragraph at lines 688--688
+[][]  
+ []
+
+[62
+
+]
+File: spi3.png Graphic file (type png)
+<use spi3.png>
+Package pdftex.def Info: spi3.png  used on input line 698.
+(pdftex.def)             Requested size: 192.00433pt x 169.35005pt.
+
+Overfull \hbox (7.62854pt too wide) in paragraph at lines 698--698
+[][]  
+ []
+
+[63
+
+]
+File: spi3.png Graphic file (type png)
+<use spi3.png>
+Package pdftex.def Info: spi3.png  used on input line 710.
+(pdftex.def)             Requested size: 192.00433pt x 169.35005pt.
+
+Overfull \hbox (7.62854pt too wide) in paragraph at lines 710--710
+[][]  
+ []
+
+[64
+
+]
+File: spi3.png Graphic file (type png)
+<use spi3.png>
+Package pdftex.def Info: spi3.png  used on input line 726.
+(pdftex.def)             Requested size: 192.00433pt x 169.35005pt.
+
+Overfull \hbox (7.62854pt too wide) in paragraph at lines 726--726
+[][]  
+ []
+
+[65
+
+]
+<spi4.png, id=1812, 526.96875pt x 394.47375pt>
+File: spi4.png Graphic file (type png)
+<use spi4.png>
+Package pdftex.def Info: spi4.png  used on input line 735.
+(pdftex.def)             Requested size: 179.16699pt x 134.1193pt.
+ [66
+
+ <./spi4.png>]
+File: spi4.png Graphic file (type png)
+<use spi4.png>
+Package pdftex.def Info: spi4.png  used on input line 747.
+(pdftex.def)             Requested size: 179.16699pt x 134.1193pt.
+ [67
+
+]
+<spi5.png, id=1867, 538.01pt x 425.59pt>
+File: spi5.png Graphic file (type png)
+<use spi5.png>
+Package pdftex.def Info: spi5.png  used on input line 760.
+(pdftex.def)             Requested size: 182.92097pt x 144.69867pt.
+ [68
+
+ <./spi5.png>]
+File: spi5.png Graphic file (type png)
+<use spi5.png>
+Package pdftex.def Info: spi5.png  used on input line 772.
+(pdftex.def)             Requested size: 182.92097pt x 144.69867pt.
+ [69
+
+]
+File: spi5.png Graphic file (type png)
+<use spi5.png>
+Package pdftex.def Info: spi5.png  used on input line 788.
+(pdftex.def)             Requested size: 182.92097pt x 144.69867pt.
+ [70
+
+]
+File: spi5.png Graphic file (type png)
+<use spi5.png>
+Package pdftex.def Info: spi5.png  used on input line 796.
+(pdftex.def)             Requested size: 182.92097pt x 144.69867pt.
+ [71
+
+]
+File: spi5.png Graphic file (type png)
+<use spi5.png>
+Package pdftex.def Info: spi5.png  used on input line 806.
+(pdftex.def)             Requested size: 182.92097pt x 144.69867pt.
+ [72
+
+]
+File: spi5.png Graphic file (type png)
+<use spi5.png>
+Package pdftex.def Info: spi5.png  used on input line 818.
+(pdftex.def)             Requested size: 182.92097pt x 144.69867pt.
+ [73
+
+]
+<spi6.png, id=2028, 407.5225pt x 452.69125pt>
+File: spi6.png Graphic file (type png)
+<use spi6.png>
+Package pdftex.def Info: spi6.png  used on input line 836.
+(pdftex.def)             Requested size: 187.46262pt x 208.2405pt.
+
+Overfull \hbox (3.08682pt too wide) in paragraph at lines 836--836
+[][]  
+ []
+
+[74
+
+ <./spi6.png>]
+File: spi6.png Graphic file (type png)
+<use spi6.png>
+Package pdftex.def Info: spi6.png  used on input line 847.
+(pdftex.def)             Requested size: 187.46262pt x 208.2405pt.
+
+Overfull \hbox (3.08682pt too wide) in paragraph at lines 847--847
+[][]  
+ []
+
+\g__tikzsymbols_savebox_F_0 g 0 G_10.95_Laughey_1_none_none_box=\box85
+[75
+
+]
+<spi7.png, id=2082, 479.7925pt x 410.53375pt>
+File: spi7.png Graphic file (type png)
+<use spi7.png>
+Package pdftex.def Info: spi7.png  used on input line 860.
+(pdftex.def)             Requested size: 163.12727pt x 139.57962pt.
+ [76
+
+ <./spi7.png>]
+<spi8.png, id=2111, 445.665pt x 383.4325pt>
+File: spi8.png Graphic file (type png)
+<use spi8.png>
+Package pdftex.def Info: spi8.png  used on input line 875.
+(pdftex.def)             Requested size: 151.5241pt x 130.36533pt.
+ [77
+
+ <./spi8.png>]
+<spi9.png, id=2139, 467.7475pt x 376.40625pt>
+File: spi9.png Graphic file (type png)
+<use spi9.png>
+Package pdftex.def Info: spi9.png  used on input line 888.
+(pdftex.def)             Requested size: 159.03203pt x 127.97643pt.
+ [78
+
+ <./spi9.png>]
+File: spi9.png Graphic file (type png)
+<use spi9.png>
+Package pdftex.def Info: spi9.png  used on input line 905.
+(pdftex.def)             Requested size: 159.03203pt x 127.97643pt.
+ [79
+
+]
+<spi10.png, id=2194, 510.90875pt x 478.78876pt>
+File: spi10.png Graphic file (type png)
+<use spi10.png>
+Package pdftex.def Info: spi10.png  used on input line 916.
+(pdftex.def)             Requested size: 173.70667pt x 162.78601pt.
+ [80
+
+ <./spi10.png>]
+<spi11.png, id=2223, 477.785pt x 467.7475pt>
+File: spi11.png Graphic file (type png)
+<use spi11.png>
+Package pdftex.def Info: spi11.png  used on input line 929.
+(pdftex.def)             Requested size: 162.44475pt x 159.03203pt.
+ [81
+
+ <./spi11.png>]
+File: spi11.png Graphic file (type png)
+<use spi11.png>
+Package pdftex.def Info: spi11.png  used on input line 946.
+(pdftex.def)             Requested size: 162.44475pt x 159.03203pt.
+ [82
+
+]
+File: spi11.png Graphic file (type png)
+<use spi11.png>
+Package pdftex.def Info: spi11.png  used on input line 958.
+(pdftex.def)             Requested size: 162.44475pt x 159.03203pt.
+ [83
+
+]
+File: spi11.png Graphic file (type png)
+<use spi11.png>
+Package pdftex.def Info: spi11.png  used on input line 968.
+(pdftex.def)             Requested size: 162.44475pt x 159.03203pt.
+ [84
+
+]
+File: spi11.png Graphic file (type png)
+<use spi11.png>
+Package pdftex.def Info: spi11.png  used on input line 979.
+(pdftex.def)             Requested size: 162.44475pt x 159.03203pt.
+ [85
+
+]
+File: spi11.png Graphic file (type png)
+<use spi11.png>
+Package pdftex.def Info: spi11.png  used on input line 994.
+(pdftex.def)             Requested size: 162.44475pt x 159.03203pt.
+ [86
+
+]
+File: spi11.png Graphic file (type png)
+<use spi11.png>
+Package pdftex.def Info: spi11.png  used on input line 1006.
+(pdftex.def)             Requested size: 162.44475pt x 159.03203pt.
+ [87
+
+]
+File: spi11.png Graphic file (type png)
+<use spi11.png>
+Package pdftex.def Info: spi11.png  used on input line 1019.
+(pdftex.def)             Requested size: 162.44475pt x 159.03203pt.
+ [88
+
+]
+File: spi11.png Graphic file (type png)
+<use spi11.png>
+Package pdftex.def Info: spi11.png  used on input line 1030.
+(pdftex.def)             Requested size: 162.44475pt x 159.03203pt.
+ [89
+
+]
+<pip1.png, id=2462, 462.72874pt x 361.35pt>
+File: pip1.png Graphic file (type png)
+<use pip1.png>
+Package pdftex.def Info: pip1.png  used on input line 1043.
+(pdftex.def)             Requested size: 185.08821pt x 144.53743pt.
+
+Overfull \hbox (0.71242pt too wide) in paragraph at lines 1043--1043
+[][]  
+ []
+
+[90
+
+ <./pip1.png>]
+File: pip1.png Graphic file (type png)
+<use pip1.png>
+Package pdftex.def Info: pip1.png  used on input line 1054.
+(pdftex.def)             Requested size: 185.08821pt x 144.53743pt.
+
+Overfull \hbox (0.71242pt too wide) in paragraph at lines 1054--1054
+[][]  
+ []
+
+[91
+
+]
+File: pip1.png Graphic file (type png)
+<use pip1.png>
+Package pdftex.def Info: pip1.png  used on input line 1065.
+(pdftex.def)             Requested size: 185.08821pt x 144.53743pt.
+
+Overfull \hbox (0.71242pt too wide) in paragraph at lines 1065--1065
+[][]  
+ []
+
+[92
+
+]
+<rad1.png, id=2544, 406.51875pt x 373.395pt>
+File: rad1.png Graphic file (type png)
+<use rad1.png>
+Package pdftex.def Info: rad1.png  used on input line 1076.
+(pdftex.def)             Requested size: 162.60461pt x 149.35535pt.
+ [93
+
+ <./rad1.png>]
+File: rad1.png Graphic file (type png)
+<use rad1.png>
+Package pdftex.def Info: rad1.png  used on input line 1089.
+(pdftex.def)             Requested size: 162.60461pt x 149.35535pt.
+ [94
+
+]
+File: rad1.png Graphic file (type png)
+<use rad1.png>
+Package pdftex.def Info: rad1.png  used on input line 1100.
+(pdftex.def)             Requested size: 162.60461pt x 149.35535pt.
+ [95
+
+]
+File: rad1.png Graphic file (type png)
+<use rad1.png>
+Package pdftex.def Info: rad1.png  used on input line 1115.
+(pdftex.def)             Requested size: 162.60461pt x 149.35535pt.
+ [96
+
+]
+File: rad1.png Graphic file (type png)
+<use rad1.png>
+Package pdftex.def Info: rad1.png  used on input line 1130.
+(pdftex.def)             Requested size: 162.60461pt x 149.35535pt.
+ [97
+
+]
+File: rad1.png Graphic file (type png)
+<use rad1.png>
+Package pdftex.def Info: rad1.png  used on input line 1139.
+(pdftex.def)             Requested size: 162.60461pt x 149.35535pt.
+ [98
+
+]
+File: rad1.png Graphic file (type png)
+<use rad1.png>
+Package pdftex.def Info: rad1.png  used on input line 1150.
+(pdftex.def)             Requested size: 162.60461pt x 149.35535pt.
+ [99
+
+]
+File: rad1.png Graphic file (type png)
+<use rad1.png>
+Package pdftex.def Info: rad1.png  used on input line 1160.
+(pdftex.def)             Requested size: 162.60461pt x 149.35535pt.
+ [100
+
+]
+<rad5.png, id=2757, 689.57625pt x 464.73625pt>
+File: rad5.png Graphic file (type png)
+<use rad5.png>
+Package pdftex.def Info: rad5.png  used on input line 1168.
+(pdftex.def)             Requested size: 158.5992pt x 106.88708pt.
+ [101
+
+ <./rad5.png>]
+<rad2.png, id=2785, 427.5975pt x 403.5075pt>
+File: rad2.png Graphic file (type png)
+<use rad2.png>
+Package pdftex.def Info: rad2.png  used on input line 1179.
+(pdftex.def)             Requested size: 171.03596pt x 161.40013pt.
+
+[102
+
+ <./rad2.png>]
+<rad3.png, id=2813, 441.65pt x 400.49625pt>
+File: rad3.png Graphic file (type png)
+<use rad3.png>
+Package pdftex.def Info: rad3.png  used on input line 1191.
+(pdftex.def)             Requested size: 176.65686pt x 160.19566pt.
+ [103
+
+ <./rad3.png>]
+File: rad3.png Graphic file (type png)
+<use rad3.png>
+Package pdftex.def Info: rad3.png  used on input line 1205.
+(pdftex.def)             Requested size: 176.65686pt x 160.19566pt.
+ [104
+
+]
+File: rad3.png Graphic file (type png)
+<use rad3.png>
+Package pdftex.def Info: rad3.png  used on input line 1220.
+(pdftex.def)             Requested size: 176.65686pt x 160.19566pt.
+ [105
+
+]
+File: rad3.png Graphic file (type png)
+<use rad3.png>
+Package pdftex.def Info: rad3.png  used on input line 1233.
+(pdftex.def)             Requested size: 176.65686pt x 160.19566pt.
+ [106
+
+]
+File: rad3.png Graphic file (type png)
+<use rad3.png>
+Package pdftex.def Info: rad3.png  used on input line 1243.
+(pdftex.def)             Requested size: 176.65686pt x 160.19566pt.
+ [107
+
+]
+File: rad3.png Graphic file (type png)
+<use rad3.png>
+Package pdftex.def Info: rad3.png  used on input line 1253.
+(pdftex.def)             Requested size: 176.65686pt x 160.19566pt.
+ [108
+
+]
+File: rad3.png Graphic file (type png)
+<use rad3.png>
+Package pdftex.def Info: rad3.png  used on input line 1265.
+(pdftex.def)             Requested size: 176.65686pt x 160.19566pt.
+ [109
+
+]
+File: rad3.png Graphic file (type png)
+<use rad3.png>
+Package pdftex.def Info: rad3.png  used on input line 1278.
+(pdftex.def)             Requested size: 176.65686pt x 160.19566pt.
+
+Overfull \hbox (3.21754pt too wide) detected at line 1278
+\OT1/mathkerncmss/m/sl/10.95 Pow\OT1/cmss/m/n/10.95 (\OT1/mathkerncmss/m/sl/10.
+95 X\OML/cmm/m/it/10.95 ; ![]\OT1/cmss/m/n/10.95 ) = \OT1/mathkerncmss/m/sl/10.
+95 Pow\OT1/cmss/m/n/10.95 (\OT1/mathkerncmss/m/sl/10.95 X\OML/cmm/m/it/10.95 ; 
+![]\OT1/cmss/m/n/10.95 )\OML/cmm/m/it/10.95 :
+ []
+
+[110
+
+]
+File: rad3.png Graphic file (type png)
+<use rad3.png>
+Package pdftex.def Info: rad3.png  used on input line 1295.
+(pdftex.def)             Requested size: 176.65686pt x 160.19566pt.
+
+Overfull \hbox (3.21754pt too wide) detected at line 1295
+\OT1/mathkerncmss/m/sl/10.95 Pow\OT1/cmss/m/n/10.95 (\OT1/mathkerncmss/m/sl/10.
+95 X\OML/cmm/m/it/10.95 ; ![]\OT1/cmss/m/n/10.95 ) = \OT1/mathkerncmss/m/sl/10.
+95 Pow\OT1/cmss/m/n/10.95 (\OT1/mathkerncmss/m/sl/10.95 X\OML/cmm/m/it/10.95 ; 
+![]\OT1/cmss/m/n/10.95 )\OML/cmm/m/it/10.95 :
+ []
+
+
+Overfull \hbox (3.21754pt too wide) detected at line 1295
+\OT1/mathkerncmss/m/sl/10.95 Pow\OT1/cmss/m/n/10.95 (\OT1/mathkerncmss/m/sl/10.
+95 X\OML/cmm/m/it/10.95 ; ![]\OT1/cmss/m/n/10.95 ) = \OT1/mathkerncmss/m/sl/10.
+95 Pow\OT1/cmss/m/n/10.95 (\OT1/mathkerncmss/m/sl/10.95 X\OML/cmm/m/it/10.95 ; 
+![]\OT1/cmss/m/n/10.95 )\OML/cmm/m/it/10.95 :
+ []
+
+[111
+
+]
+File: rad3.png Graphic file (type png)
+<use rad3.png>
+Package pdftex.def Info: rad3.png  used on input line 1308.
+(pdftex.def)             Requested size: 176.65686pt x 160.19566pt.
+
+Overfull \hbox (3.21754pt too wide) detected at line 1308
+\OT1/mathkerncmss/m/sl/10.95 Pow\OT1/cmss/m/n/10.95 (\OT1/mathkerncmss/m/sl/10.
+95 X\OML/cmm/m/it/10.95 ; ![]\OT1/cmss/m/n/10.95 ) = \OT1/mathkerncmss/m/sl/10.
+95 Pow\OT1/cmss/m/n/10.95 (\OT1/mathkerncmss/m/sl/10.95 X\OML/cmm/m/it/10.95 ; 
+![]\OT1/cmss/m/n/10.95 )\OML/cmm/m/it/10.95 ;
+ []
+
+[112
+
+]
+File: rad3.png Graphic file (type png)
+<use rad3.png>
+Package pdftex.def Info: rad3.png  used on input line 1317.
+(pdftex.def)             Requested size: 176.65686pt x 160.19566pt.
+ [113
+
+]
+File: rad3.png Graphic file (type png)
+<use rad3.png>
+Package pdftex.def Info: rad3.png  used on input line 1326.
+(pdftex.def)             Requested size: 176.65686pt x 160.19566pt.
+ [114
+
+]
+File: rad3.png Graphic file (type png)
+<use rad3.png>
+Package pdftex.def Info: rad3.png  used on input line 1338.
+(pdftex.def)             Requested size: 176.65686pt x 160.19566pt.
+ [115
+
+] [116
+
+] [117
+
+] [118
+
+] [119
+
+]
+\tf@nav=\write6
+\openout6 = `lec.nav'.
+
+\tf@toc=\write7
+\openout7 = `lec.toc'.
+
+\tf@snm=\write8
+\openout8 = `lec.snm'.
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1360.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1360.
+ (./lec.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1360.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1360.
+
+Package rerunfilecheck Info: File `lec.out' has not changed.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+ ) 
+Here is how much of TeX's memory you used:
+ 42786 strings out of 492649
+ 975344 string characters out of 6129622
+ 1200105 words of memory out of 5000000
+ 45692 multiletter control sequences out of 15000+600000
+ 545177 words of font info for 78 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 78i,15n,123p,10444b,901s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb
+></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb>
+</usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb><
+/usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmss17.pfb></
+usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></us
+r/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></u
+sr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></u
+sr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi12.pfb></u
+sr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi8.pfb></us
+r/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr
+/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/l
+ocal/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/loc
+al/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb>
+Output written on lec.pdf (119 pages, 1014921 bytes).
+PDF statistics:
+ 3362 PDF objects out of 3580 (max. 8388607)
+ 3103 compressed objects within 32 object streams
+ 239 named destinations out of 1000 (max. 500000)
+ 279 words of extra memory for PDF output out of 10000 (max. 10000000)
+
