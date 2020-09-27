@@ -1,0 +1,187 @@
+% Packages
+
+\usepackage{amsmath, amssymb, amsfonts, amsbsy, amsthm}
+\usepackage{stackengine}
+\usepackage{float, graphicx}
+\usepackage{tipa}
+\usepackage{geometry}
+\usepackage{hyperref}
+\usepackage{xcolor}
+\usepackage{tikz}
+\usepackage{listings}
+\usepackage{dsfont}
+\usepackage{pgf,tikz,pgfplots}
+\RequirePackage{pgf, tikz, pgfplots}
+\pgfplotsset{compat=1.15}
+\usepackage{mathrsfs}
+\usetikzlibrary{arrows}
+
+% Arcs
+\newcommand{\arc}[1]{{%
+  \setbox9=\hbox{#1}%
+  \ooalign{\resizebox{\wd9}{\height}{\texttoptiebar{\phantom{A}}}\cr#1}}}
+
+% Displaying Code (C++, Python, etc.)
+
+\RequirePackage{listings}
+\RequirePackage{xcolor}
+
+\definecolor{ffqqqq}{rgb}{1,0,0}
+\definecolor{ududff}{rgb}{0.30196078431372547,0.30196078431372547,1}
+
+\lstset{
+    frame=tb, % draw a frame at the top and bottom of the code block
+    tabsize=4, % tab space width
+    showstringspaces=false, % don't mark spaces in strings
+    numbers=left, % display line numbers on the left
+    commentstyle=\color{gray}, % comment color
+    keywordstyle=\color{blue}, % keyword color
+    stringstyle=\color{orange} % string color
+}
+
+% Boiboites
+
+\RequirePackage{xkeyval}
+\RequirePackage{tikz}
+\RequirePackage{amssymb}
+
+\define@key{boxedtheorem}{titlecolor}{\def\titlecolor{#1}}
+\define@key{boxedtheorem}{titlebackground}{\def\titlebackground{#1}}
+\define@key{boxedtheorem}{background}{\def\background{#1}}
+\define@key{boxedtheorem}{titleboxcolor}{\def\titleboxcolor{#1}}
+\define@key{boxedtheorem}{boxcolor}{\def\boxcolor{#1}}
+\define@key{boxedtheorem}{thcounter}{\def\thcounter{#1}}
+\define@key{boxedtheorem}{size}{\def\size{#1}}
+\presetkeys{boxedtheorem}{titlecolor = black, titlebackground = white, background = white,%
+                         titleboxcolor = black, boxcolor = black, thcounter=, size = .9\textwidth}{}
+
+\newcommand{\couleurs}[1][]{%
+    \setkeys{boxedtheorem}{#1}
+    \tikzstyle{fancytitle} =[draw=\titleboxcolor, rounded corners, fill=\titlebackground,
+                            text= \titlecolor]
+    \tikzstyle{mybox} = [draw=\boxcolor, fill=\background, very thick,
+                        rectangle, rounded corners, inner sep=10pt, inner ysep=20pt]
+}
+
+
+%Commande générique pour faire un joli encadré
+\newsavebox{\boiboite}
+\newcommand{\titre}{Titre}
+\newenvironment{boite}[2][]%
+    {%
+    \renewcommand{\titre}{#2}
+    \couleurs[#1]
+    \begin{lrbox}{\boiboite}%
+     \begin{minipage}[!h]{\size}
+    }%
+    {%
+     \end{minipage}
+    \end{lrbox}
+    \begin{center}
+    \begin{tikzpicture}
+    \node [mybox] (box){\usebox{\boiboite}};
+    \node[fancytitle, right=10pt] at (box.north west) {\titre};
+    \end{tikzpicture}
+    \end{center}
+    }
+
+
+
+
+\newcommand{\newboxedtheorem}[4][]{%
+    \couleurs[#1]
+    \@ifnotempty{#4}{%
+      \@ifundefined{the#4}{\@ifundefined{\thcounter}{\newcounter{#4}}{%
+      \newcounter{#4}[\thcounter ] } } { }%
+    }
+    \newenvironment{#2}[1][]{%
+    \@ifnotempty{#4}{\refstepcounter{#4}}
+    \begin{boite}[#1]{\textbf{#3\@ifnotempty{#4}{ \csname the#4\endcsname}}\@ifnotempty{##1}{
+    (##1)}}
+    }%
+    {%
+    \end{boite}
+    }
+}
+% Colors
+\definecolor{cthm}{RGB}{234, 80, 51}
+\definecolor{clem}{RGB}{23, 74, 126}
+\definecolor{cprop}{RGB}{238, 132, 94}
+\definecolor{ccor}{RGB}{46, 111, 126}
+\definecolor{cexm}{RGB}{230, 181, 69}
+\definecolor{cdefn}{RGB}{65,70,116}
+\definecolor{cprf}{RGB}{237, 239, 238}
+
+% Theorem, Proposition, Remark, Example, Corollary, Definition, Lemma, ...
+\newboxedtheorem[boxcolor=cthm, background=cthm!15, titlebackground=cthm!5, titleboxcolor=black]{thm}{Theorem}{test}
+
+\newboxedtheorem[boxcolor=clem, background=clem!15, titlebackground=clem!5, titleboxcolor=black]{lem}{Lemma}{test}
+
+\newboxedtheorem[boxcolor=cprop, background=cprop!15, titlebackground=cprop!5, titleboxcolor=black]{prop}{Proposition}{test}
+
+\newboxedtheorem[boxcolor=ccor, background=ccor!15, titlebackground=ccor!5, titleboxcolor=black]{cor}{Corollary}{test}
+
+\newboxedtheorem[boxcolor=cexm, background=cexm!15, titlebackground=cexm!5, titleboxcolor=black]{exm}{Example}{test}
+
+\newboxedtheorem[boxcolor=cdefn, background=cdefn!15, titlebackground=cdefn!5, titleboxcolor=black]{defn}{Definition}{test}
+
+\newboxedtheorem[boxcolor=cprf, background=cprf!15, titlebackground=cprf!5, titleboxcolor=black]{prf}{Proof}{test}
+
+% Commands
+\newcommand{\floor}[1]{\lfloor #1 \rfloor}
+\newcommand{\ceil}[1]{\left\lceil #1 \right\rceil}
+
+\newcommand\CA{\mathcal{A}}
+\newcommand\CB{\mathcal{B}}
+\newcommand\CC{\mathcal{C}}
+\newcommand\CD{\mathcal{D}}
+\newcommand\CE{\mathcal{E}}
+\newcommand\CF{\mathcal{F}}
+\newcommand\CG{\mathcal{G}}
+\newcommand\CH{\mathcal{H}}
+\newcommand\CI{\mathcal{I}}
+\newcommand\CJ{\mathcal{J}}
+\newcommand\CK{\mathcal{K}}
+\newcommand\CL{\mathcal{L}}
+\newcommand\CM{\mathcal{M}}
+\newcommand\CN{\mathcal{N}}
+\newcommand\CO{\mathcal{O}}
+\newcommand\CP{\mathcal{P}}
+\newcommand\CQ{\mathcal{Q}}
+\newcommand\CR{\mathcal{R}}
+\newcommand\CS{\mathcal{S}}
+\newcommand\CT{\mathcal{T}}
+\newcommand\CU{\mathcal{U}}
+\newcommand\CV{\mathcal{V}}
+\newcommand\CW{\mathcal{W}}
+\newcommand\CX{\mathcal{X}}
+\newcommand\CY{\mathcal{Y}}
+\newcommand\CZ{\mathcal{Z}}
+
+\newcommand\BA{\mathbb{A}}
+\newcommand\BB{\mathbb{B}}
+\newcommand\BC{\mathbb{C}}
+\newcommand\BD{\mathbb{D}}
+\newcommand\BE{\mathbb{E}}
+\newcommand\BF{\mathbb{F}}
+\newcommand\BG{\mathbb{G}}
+\newcommand\BH{\mathbb{H}}
+\newcommand\BI{\mathbb{I}}
+\newcommand\BJ{\mathbb{J}}
+\newcommand\BK{\mathbb{K}}
+\newcommand\BL{\mathbb{L}}
+\newcommand\BM{\mathbb{M}}
+\newcommand\BN{\mathbb{N}}
+\newcommand\BO{\mathbb{O}}
+\newcommand\BP{\mathbb{P}}
+\newcommand\BQ{\mathbb{Q}}
+\newcommand\BR{\mathbb{R}}
+\newcommand\BS{\mathbb{S}}
+\newcommand\BT{\mathbb{T}}
+\newcommand\BU{\mathbb{U}}
+\newcommand\BV{\mathbb{V}}
+\newcommand\BW{\mathbb{W}}
+\newcommand\BX{\mathbb{X}}
+\newcommand\BY{\mathbb{Y}}
+\newcommand\BZ{\mathbb{Z}}
+
